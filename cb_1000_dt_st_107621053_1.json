@@ -2,501 +2,1205 @@
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/since_cb_1000_it.json",
     "id_item": "since_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "since",
+    "list_vietnam": [
+      "từ khi",
+      "kể từ",
+      "bởi vì, vì lẽ rằng",
+      "từ lúc ấy",
+      "từ đó",
+      "từ một thời điểm trong quá khứ đến nay",
+      "kể từ",
+      "kể từ khi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/single_cb_1000_it.json",
     "id_item": "single_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "single",
+    "list_vietnam": [
+      "đơn độc",
+      "đơn",
+      "độc thân",
+      "một chiều",
+      "đĩa ghi âm mỗi mặt chỉ có ghi một bài hát ngắn",
+      "vé một chiều"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sing_cb_1000_it.json",
     "id_item": "sing_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sing",
+    "list_vietnam": [
+      "hát, hót",
+      "số ít"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sink_cb_1000_it.json",
     "id_item": "sink_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sink",
+    "list_vietnam": [
+      "chìm",
+      "lặn xuống dưới chân trời",
+      "xuyên vào, ngập sâu vào",
+      "xuống thấp, lắng xuống",
+      "đầu tư",
+      "bồn rửa bát, chậu rửa bát"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sister_cb_1000_it.json",
     "id_item": "sister_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sister",
+    "list_vietnam": [
+      "chị, em gái",
+      "bà xơ",
+      "bà chị ,cô em",
+      "chị em",
+      "có tính chất chị em"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sit_cb_1000_it.json",
     "id_item": "sit_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sit",
+    "list_vietnam": [
+      "ngồi",
+      "ở vào vị trí nào đó",
+      "là thành viên chính thức của",
+      "đậu",
+      "là thí sinh của một kì thi",
+      "ngồi làm mẫu để vẽ chân dung",
+      "họp"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/six_cb_1000_it.json",
     "id_item": "six_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "six",
+    "list_vietnam": [
+      "số sáu",
+      "sáu tuổi",
+      "thuộc số sáu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/size_cb_1000_it.json",
     "id_item": "size_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "size",
+    "list_vietnam": [
+      "quy mô, kích cỡ",
+      "cỡ, số, khổ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/skeleton_cb_1000_it.json",
     "id_item": "skeleton_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "skeleton",
+    "list_vietnam": [
+      "bộ xương",
+      "khung, sườn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/skill_cb_1000_it.json",
     "id_item": "skill_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "skill",
+    "list_vietnam": [
+      "sự khéo léo, sự tinh xảo",
+      "kĩ năng, kĩ xảo"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/skin_cb_1000_it.json",
     "id_item": "skin_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "skin",
+    "list_vietnam": [
+      "da, bì",
+      "vỏ",
+      "lớp vỏ, lớp phủ",
+      "lột da, bóc vỏ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/skull_cb_1000_it.json",
     "id_item": "skull_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "skull",
+    "list_vietnam": [
+      "sọ, đầu lâu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sky_cb_1000_it.json",
     "id_item": "sky_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sky",
+    "list_vietnam": [
+      "trời, bầu trời"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slacks_cb_1000_it.json",
     "id_item": "slacks_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slacks",
+    "list_vietnam": [
+      "đoạn chùng, chỗ chùng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slave_cb_1000_it.json",
     "id_item": "slave_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slave",
+    "list_vietnam": [
+      "người nô lệ",
+      "người làm việc đầu tắt, mặt tối",
+      "làm việc quần quật"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slay_cb_1000_it.json",
     "id_item": "slay_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slay",
+    "list_vietnam": [
+      "giết chết"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sleep_cb_1000_it.json",
     "id_item": "sleep_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sleep",
+    "list_vietnam": [
+      "ngủ",
+      "giấc, sự ngủ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sleet_cb_1000_it.json",
     "id_item": "sleet_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sleet",
+    "list_vietnam": [
+      "cơn mưa tuyết, mưa đá",
+      "mưa tuyết, mưa đá"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slide_cb_1000_it.json",
     "id_item": "slide_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slide",
+    "list_vietnam": [
+      "trượt, chuyển động nhẹ nhàng",
+      "lướt qua, đi lướt",
+      "sự trượt",
+      "ván trượt",
+      "bản kính dương (ở đèn chiếu)",
+      "bản kính mang vật (ở kính hiển vi)",
+      "cái trâm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slightly_cb_1000_it.json",
     "id_item": "slightly_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slightly",
+    "list_vietnam": [
+      "nhỏ, mức độ không đáng kể",
+      "mảnh khảnh , thon thả"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sling_cb_1000_it.json",
     "id_item": "sling_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sling",
+    "list_vietnam": [
+      "băng đeo",
+      "dây đeo súng",
+      "dây quàng, dây đeo",
+      "quăng, ném mạnh",
+      "đeo, treo, móc"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slink_cb_1000_it.json",
     "id_item": "slink_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slink",
+    "list_vietnam": [
+      "lẻn vào"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slip_cb_1000_it.json",
     "id_item": "slip_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slip",
+    "list_vietnam": [
+      "trượt, tuột",
+      "thoát, tuột ra khỏi",
+      "không được khỏe, nhanh nhẹn, tỉnh táo như mọi ngày",
+      "chạy qua",
+      "lẻn, lủi, lẩn",
+      "đút nhanh, nhét gọn",
+      "sự trượt chân",
+      "sự sơ suất",
+      "áo gối, coócxê",
+      "bến tàu, chỗ đóng tàu",
+      "miếng giấy nhỏ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slit_cb_1000_it.json",
     "id_item": "slit_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slit",
+    "list_vietnam": [
+      "rạch, rọc",
+      "đường rạch, khe hở"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slowly_cb_1000_it.json",
     "id_item": "slowly_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slowly",
+    "list_vietnam": [
+      "chậm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slow_cb_1000_it.json",
     "id_item": "slow_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slow",
+    "list_vietnam": [
+      "chậm chạp",
+      "chậm (thời gian)",
+      "trì độn , không nhanh trí",
+      "làm chậm lại, đi chậm lại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slug_cb_1000_it.json",
     "id_item": "slug_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "slug",
+    "list_vietnam": [
+      "con sên",
+      "viên đạn nhỏ",
+      "đánh mạnh"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/small_cb_1000_it.json",
     "id_item": "small_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "small",
+    "list_vietnam": [
+      "nhỏ, bé, chật",
+      "nhỏ",
+      "nhỏ, không nhiều",
+      "chữ nhỏ, chữ thường"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/smart_cb_1000_it.json",
     "id_item": "smart_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "smart",
+    "list_vietnam": [
+      "thanh nhã, lịch sự",
+      "khéo léo, tài tình",
+      "nhanh, mau lẹ",
+      "đau đớn, nhức nhối",
+      "đau khổ",
+      "sự đau đớn, sự nhức nhối"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/smell_cb_1000_it.json",
     "id_item": "smell_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "smell",
+    "list_vietnam": [
+      "khứu giác",
+      "mùi",
+      "sự ngửi, sự hít",
+      "ngửi thấy, đánh hơi thấy",
+      "có mùi khó chịu",
+      "hít, ngửi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/smile_cb_1000_it.json",
     "id_item": "smile_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "smile",
+    "list_vietnam": [
+      "mỉm cười",
+      "nụ cười"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/snake_cb_1000_it.json",
     "id_item": "snake_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "snake",
+    "list_vietnam": [
+      "con rắn",
+      "trườn như rắn, uốn khúc"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sneak_cb_1000_it.json",
     "id_item": "sneak_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sneak",
+    "list_vietnam": [
+      "trốn, lén",
+      "ăn trộm, xoáy, lén",
+      "đứa hớt lẻo"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/snooker_cb_1000_it.json",
     "id_item": "snooker_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "snooker",
+    "list_vietnam": [
+      "trò chơi bi-da"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/snowy_cb_1000_it.json",
     "id_item": "snowy_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "snowy",
+    "list_vietnam": [
+      "đầy tuyết",
+      "tóc trắng như tuyết"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/snow_cb_1000_it.json",
     "id_item": "snow_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "snow",
+    "list_vietnam": [
+      "tuyết",
+      "tuyết rơi"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/soap_cb_1000_it.json",
     "id_item": "soap_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "soap",
+    "list_vietnam": [
+      "xà bông",
+      "xát xà bông"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sociable_cb_1000_it.json",
     "id_item": "sociable_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sociable",
+    "list_vietnam": [
+      "dễ chan hòa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/socially_cb_1000_it.json",
     "id_item": "socially_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "socially",
+    "list_vietnam": [
+      "có tính chất xã hội"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sofa_cb_1000_it.json",
     "id_item": "sofa_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sofa",
+    "list_vietnam": [
+      "ghế xôfa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/soft_cb_1000_it.json",
     "id_item": "soft_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "soft",
+    "list_vietnam": [
+      "mềm, dẻo",
+      "nhẵn, mịn, mượt",
+      "nhẹ, nhẹ nhàng",
+      "dịu, không lòe loẹt",
+      "nhu nhược",
+      "nhẹ ,dịu",
+      "yếu đuối, ủy mị"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/soil_cb_1000_it.json",
     "id_item": "soil_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "soil",
+    "list_vietnam": [
+      "đất trồng",
+      "làm bẩn, làm ô nhiễm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/soldier_cb_1000_it.json",
     "id_item": "soldier_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "soldier",
+    "list_vietnam": [
+      "người lính"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sole_cb_1000_it.json",
     "id_item": "sole_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sole",
+    "list_vietnam": [
+      "lòng bàn chân",
+      "đế giày",
+      "cá bơn",
+      "thịt cá bơn",
+      "duy nhất",
+      "một mình"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/solution_cb_1000_it.json",
     "id_item": "solution_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "solution",
+    "list_vietnam": [
+      "giải pháp, cách giải quyết",
+      "lời giải, bài giải",
+      "dung dịch, sự hòa tan"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/solve_cb_1000_it.json",
     "id_item": "solve_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "solve",
+    "list_vietnam": [
+      "giải, tìm ra lời giải",
+      "phá(án)"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sometimes_cb_1000_it.json",
     "id_item": "sometimes_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sometimes",
+    "list_vietnam": [
+      "thỉnh thoảng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/somewhere_cb_1000_it.json",
     "id_item": "somewhere_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "somewhere",
+    "list_vietnam": [
+      "trong, ở, đến một nơi nào đó"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/some_cb_1000_it.json",
     "id_item": "some_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "some",
+    "list_vietnam": [
+      "một vài, vài ba",
+      "một lượng không xác định",
+      "một vài, một ít",
+      "nào đó",
+      "một số lượng đáng kể",
+      "không được nêu tên hay nhận ra",
+      "ước chừng",
+      "có phần, một chút"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/song_cb_1000_it.json",
     "id_item": "song_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "song",
+    "list_vietnam": [
+      "bài hát",
+      "tiếng hát",
+      "tiếng hót"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/son_cb_1000_it.json",
     "id_item": "son_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "son",
+    "list_vietnam": [
+      "con trai"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/soon_cb_1000_it.json",
     "id_item": "soon_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "soon",
+    "list_vietnam": [
+      "chẳng bao lâu nữa, chẳng mấy chốc nữa",
+      "sớm , nhanh",
+      "vui lòng, tự nguyện"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/soprano_cb_1000_it.json",
     "id_item": "soprano_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "soprano",
+    "list_vietnam": [
+      "giọng nữ cao"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sort_cb_1000_it.json",
     "id_item": "sort_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sort",
+    "list_vietnam": [
+      "loại, thứ, hạng",
+      "phân loại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sound_cb_1000_it.json",
     "id_item": "sound_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sound",
+    "list_vietnam": [
+      "khoẻ mạnh, trong tình trạng tốt",
+      "yên giấc, ngon",
+      "đầy đủ, kĩ lưỡng",
+      "đúng đắn, có cơ sở",
+      "có căn cứ, hợp lí",
+      "âm thanh",
+      "âm thanh, tiếng động",
+      "ấn tượng về tinh thần",
+      "làm cho phát ra âm thanh",
+      "báo , báo hiệu",
+      "nghe như, nghe có vẻ",
+      "phát âm, đọc",
+      "gõ để nghe bệnh",
+      "dò, đo độ sâu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/south_cb_1000_it.json",
     "id_item": "south_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "south",
+    "list_vietnam": [
+      "miền nam",
+      "phương nam",
+      "ở, về phía nam",
+      "từ phương nam đến",
+      "về, hướng về phía nam"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/space_cb_1000_it.json",
     "id_item": "space_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "space",
+    "list_vietnam": [
+      "khoảng trống, khoảng cách",
+      "khoảng, chỗ",
+      "không gian vũ trụ",
+      "đặt cách nhau"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/speaker_cb_1000_it.json",
     "id_item": "speaker_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "speaker",
+    "list_vietnam": [
+      "người nói",
+      "loa phóng thanh"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/speak_cb_1000_it.json",
     "id_item": "speak_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "speak",
+    "list_vietnam": [
+      "nói, phát ra lời",
+      "nói chuyện",
+      "nói được",
+      "nói rõ, chứng tỏ",
+      "phát biểu, diễn thuyết"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/special_cb_1000_it.json",
     "id_item": "special_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "special",
+    "list_vietnam": [
+      "đặc biệt, riêng biệt",
+      "riêng, dành riêng",
+      "chuyến xe lửa đặc biệt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/specifically_cb_1000_it.json",
     "id_item": "specifically_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "specifically",
+    "list_vietnam": [
+      "rõ ràng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/specify_cb_1000_it.json",
     "id_item": "specify_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "specify",
+    "list_vietnam": [
+      "ghi rõ, định rõ",
+      "chỉ rõ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/speech_cb_1000_it.json",
     "id_item": "speech_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "speech",
+    "list_vietnam": [
+      "khả năng, hành động nói",
+      "lời nói",
+      "cách nói , lối nói",
+      "bài diễn thuyết"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/speed_cb_1000_it.json",
     "id_item": "speed_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "speed",
+    "list_vietnam": [
+      "tốc độ",
+      "sự nhanh chóng",
+      "chạy nhanh",
+      "chạy quá tốc độ quy định"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spell_cb_1000_it.json",
     "id_item": "spell_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spell",
+    "list_vietnam": [
+      "đánh vần",
+      "viết theo chính tả",
+      "đánh vần, viết vần",
+      "báo hiệu",
+      "câu thần chú, bùa mê",
+      "sức quyến rũ",
+      "đợt, lượt, phiên",
+      "một đợt",
+      "thời gian ngắn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spend_cb_1000_it.json",
     "id_item": "spend_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spend",
+    "list_vietnam": [
+      "tiêu, chi tiêu",
+      "tiêu thời gian, dùng thời giờ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sphere_cb_1000_it.json",
     "id_item": "sphere_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sphere",
+    "list_vietnam": [
+      "hình cầu, quả cầu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spill_cb_1000_it.json",
     "id_item": "spill_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spill",
+    "list_vietnam": [
+      "làm tràn, làm đổ"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spin_cb_1000_it.json",
     "id_item": "spin_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spin",
+    "list_vietnam": [
+      "quay tròn",
+      "xe chỉ, xe tơ",
+      "sự quay tròn",
+      "cuộc đi chơi ngắn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/splash_cb_1000_it.json",
     "id_item": "splash_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "splash",
+    "list_vietnam": [
+      "té, vẩy, làm bắn nước",
+      "bắn lên, văng ra",
+      "vầy nước",
+      "chấm loáng thoáng",
+      "sự bắn tóe",
+      "vết bùn, đốm bẩn",
+      "mảng màu sáng, vết đốm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spleen_cb_1000_it.json",
     "id_item": "spleen_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spleen",
+    "list_vietnam": [
+      "lá lách, tì"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spoil_cb_1000_it.json",
     "id_item": "spoil_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spoil",
+    "list_vietnam": [
+      "làm hỏngt",
+      "làm hư, làm hại tính cách"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spoke_cb_1000_it.json",
     "id_item": "spoke_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spoke",
+    "list_vietnam": [
+      "cái nan hoa"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sponge_cb_1000_it.json",
     "id_item": "sponge_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sponge",
+    "list_vietnam": [
+      "bọt biển",
+      "miếng vải thấm nước",
+      "bánh xốp",
+      "sự lau chùi bằng bọt biển",
+      "lau chùi, cọ sạch bằng bọt biển",
+      "lấy được tiền, bòn rút"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spot_cb_1000_it.json",
     "id_item": "spot_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spot",
+    "list_vietnam": [
+      "vết nhơ, vết đen",
+      "đốm, dấu , vết",
+      "đốm",
+      "nơi chốn",
+      "một chút, một ít",
+      "nhận ra",
+      "phát hiện"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spread_cb_1000_it.json",
     "id_item": "spread_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spread",
+    "list_vietnam": [
+      "giăng, bày ra",
+      "rải",
+      "lan truyền",
+      "truyền bá",
+      "kéo, giăng",
+      "sự phổ biến",
+      "sự rải",
+      "dải rộng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/spring_cb_1000_it.json",
     "id_item": "spring_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "spring",
+    "list_vietnam": [
+      "nhảy",
+      "xuất phát từ",
+      "bật mạnh",
+      "lò xo",
+      "mùa xuân",
+      "bước nhảy",
+      "tính đàn hồi",
+      "con nước"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/square_cb_1000_it.json",
     "id_item": "square_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "square",
+    "list_vietnam": [
+      "hình vuông",
+      "vuông",
+      "quảng trường",
+      "bình phương",
+      "vuông",
+      "công bằng, sòng phẳng",
+      "mét vuông",
+      "lỗi thời",
+      "vuông vắn",
+      "thẳng thắn, trực tiếp",
+      "làm cho vuông",
+      "thanh toán, trả",
+      "làm cho phù hợp",
+      "bình phương"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/squash_cb_1000_it.json",
     "id_item": "squash_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "squash",
+    "list_vietnam": [
+      "ép ,nén",
+      "bóp chết, đàn áp",
+      "đám đông chen nhau",
+      "nước uống bằng hoa quả ép",
+      "bóng quần",
+      "cây bí"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/squirrel_cb_1000_it.json",
     "id_item": "squirrel_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "squirrel",
+    "list_vietnam": [
+      "con sóc"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stage_cb_1000_it.json",
     "id_item": "stage_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stage",
+    "list_vietnam": [
+      "sân khấu",
+      "đưa lên sân khấu",
+      "sắp xếp, tổ chức",
+      "thời kì, giai đoạn",
+      "chặng đường , quãng",
+      "xe buýt, xe ngựa tuyến",
+      "động cơ riêng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stand_cb_1000_it.json",
     "id_item": "stand_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stand",
+    "list_vietnam": [
+      "đứng",
+      "đứng dậy",
+      "có, đứng, ở",
+      "có giá trị, không thay đổi",
+      "đứng vững, bền",
+      "chịu đựng, giữ vững",
+      "ra ứng cử",
+      "đặt, để, dựng",
+      "trải qua, chịu đựng",
+      "thết, đãi",
+      "vị trí đứng, sự đứng yên",
+      "giá, bệ , khung",
+      "gian hàng, quán",
+      "khán đài",
+      "ghế nhân chứng trong tòa án"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stare_cb_1000_it.json",
     "id_item": "stare_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stare",
+    "list_vietnam": [
+      "nhìn chằm chằm",
+      "sự , cái nhìn chằm chằm"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/start_cb_1000_it.json",
     "id_item": "start_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "start",
+    "list_vietnam": [
+      "khởi hành",
+      "bắt đầu công việc",
+      "khởi động",
+      "bắt đầu làm",
+      "lúc bắt đầu",
+      "lợi thế xuất phát trước trong một cuộc đua",
+      "giật mình, nhảy lên đột ngột",
+      "sự giật nảy người",
+      "sự giật mình"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/star_cb_1000_it.json",
     "id_item": "star_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "star",
+    "list_vietnam": [
+      "ngôi sao",
+      "tinh tú",
+      "vật hình sao, trang trí ngôi sao",
+      "ngôi sao điện ảnh",
+      "đóng vai chính",
+      "có đóng vai chính",
+      "quả khế"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/state_cb_1000_it.json",
     "id_item": "state_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "state",
+    "list_vietnam": [
+      "tình trạng, trạng thái",
+      "nhà nước, quốc gia",
+      "nghi lễ trọng thể",
+      "phát biểu, tuyên bố"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/station_cb_1000_it.json",
     "id_item": "station_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "station",
+    "list_vietnam": [
+      "nhà ga",
+      "trạm, điểm, đồn, đài",
+      "địa vị, chức",
+      "đặt vào vị trí"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stay_cb_1000_it.json",
     "id_item": "stay_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stay",
+    "list_vietnam": [
+      "ở lại, lưu lại",
+      "ở trong trạng thái, điều kiện, vị trí nào đó",
+      "sự lưu lại"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/steal_cb_1000_it.json",
     "id_item": "steal_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "steal",
+    "list_vietnam": [
+      "ăn cắp, ăn trộm",
+      "dành được, lấy được cái gì vụng trộm, lén lút",
+      "chuồn, đi lén"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/steam_cb_1000_it.json",
     "id_item": "steam_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "steam",
+    "list_vietnam": [
+      "hơi nước",
+      "năng lượng hơi nước",
+      "bốc hơi",
+      "chạy bằng hơi nước",
+      "đồ, hấp",
+      "chạy bằng hơi nước"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/steel_cb_1000_it.json",
     "id_item": "steel_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "steel",
+    "list_vietnam": [
+      "thép",
+      "tôi luyện"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/step_cb_1000_it.json",
     "id_item": "step_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "step",
+    "list_vietnam": [
+      "bước chân, bước",
+      "bước",
+      "tiếng bước chân, dáng đi",
+      "bước nhảy, điệu nhảy",
+      "bậc, nấc",
+      "bước tiến",
+      "biện pháp",
+      "bước, bước đi",
+      "không phải ruột thịt"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stick_cb_1000_it.json",
     "id_item": "stick_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stick",
+    "list_vietnam": [
+      "đâm, thọc, chọc",
+      "cắm",
+      "dán, dính",
+      "làm sa lầy, làm vướng mắc",
+      "que củi",
+      "cái gậy",
+      "cán"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/still_cb_1000_it.json",
     "id_item": "still_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "still",
+    "list_vietnam": [
+      "đứng yên, phẳng lặng",
+      "không có ga, không sủi bọt",
+      "bức ảnh về một cảnh của bộ phim",
+      "vẫn còn",
+      "mặc dù vậy, tuy nhiên",
+      "thậm chí"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sting_cb_1000_it.json",
     "id_item": "sting_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "sting",
+    "list_vietnam": [
+      "vòi, răng độc",
+      "sự đốt, sự châm",
+      "sự đau nhói",
+      "châm, đốt",
+      "nhức nhối, đau đớn"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stink_cb_1000_it.json",
     "id_item": "stink_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stink",
+    "list_vietnam": [
+      "có mùi khó chịu, hôi thối",
+      "mùi khó chịu, hôi thối"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stomach_cb_1000_it.json",
     "id_item": "stomach_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stomach",
+    "list_vietnam": [
+      "dạ dày",
+      "bụng"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stone_cb_1000_it.json",
     "id_item": "stone_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stone",
+    "list_vietnam": [
+      "đá",
+      "cục đá có bất kì hình dáng nào",
+      "hòn đá được đục, đẽo để dùng vào một mục đích riêng",
+      "đá quý, ngọc",
+      "hạt",
+      "xtôn",
+      "sỏi",
+      "ném đá vào ai, nói xấu, vu cáo",
+      "lấy hạt ra"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stool_cb_1000_it.json",
     "id_item": "stool_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stool",
+    "list_vietnam": [
+      "ghế đẩu"
+    ]
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stop_cb_1000_it.json",
     "id_item": "stop_cb_1000_it",
-    "id_album": "107621053"
+    "id_album": "107621053",
+    "english": "stop",
+    "list_vietnam": [
+      "dừng , ngừng lại",
+      "chặn, ngăn chặn",
+      "ngừng, thôi",
+      "bịt lại, nút lại",
+      "bấm dây đàn, lỗ sáo",
+      "lưu lại ở lại",
+      "sự ở lại, sự lưu lại",
+      "bến xe",
+      "dấu chấm câu",
+      "nút bấm",
+      "cái nêm"
+    ]
   }
 ]
