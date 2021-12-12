@@ -4,99 +4,129 @@
     "id_item": "yard_cb_1000_it",
     "id_album": "113162181",
     "english": "yard",
-    "list_vietnam": [
+    "list_mean": [
       "thước Anh (0,914 mét)",
       "sân",
       "kho; xưởng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1178066145"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/year_cb_1000_it.json",
     "id_item": "year_cb_1000_it",
     "id_album": "113162181",
     "english": "year",
-    "list_vietnam": [
+    "list_mean": [
       "năm",
       "năm"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "3644097"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/yellow_cb_1000_it.json",
     "id_item": "yellow_cb_1000_it",
     "id_album": "113162181",
     "english": "yellow",
-    "list_vietnam": [
+    "list_mean": [
       "màu vàng",
       "biến thành màu vàng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "312067173"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/yesterday_cb_1000_it.json",
     "id_item": "yesterday_cb_1000_it",
     "id_album": "113162181",
     "english": "yesterday",
-    "list_vietnam": [
+    "list_mean": [
       "ngày hôm qua"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "722524047"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/yes_cb_1000_it.json",
     "id_item": "yes_cb_1000_it",
     "id_album": "113162181",
     "english": "yes",
-    "list_vietnam": [
+    "list_mean": [
       "vâng; có; dạ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-520645061"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/yet_cb_1000_it.json",
     "id_item": "yet_cb_1000_it",
     "id_album": "113162181",
     "english": "yet",
-    "list_vietnam": [
+    "list_mean": [
       "chưa",
       "lại nữa",
       "thậm chí",
       "tuy nhiên"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1073187566"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/yoga_cb_1000_it.json",
     "id_item": "yoga_cb_1000_it",
     "id_album": "113162181",
     "english": "yoga",
-    "list_vietnam": [
+    "list_mean": [
       "bài tập yoga",
       "thuyết du già"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-2029847979"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/young_cb_1000_it.json",
     "id_item": "young_cb_1000_it",
     "id_album": "113162181",
     "english": "young",
-    "list_vietnam": [
+    "list_mean": [
       "non; trẻ",
       "con non"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "439600229"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/your_cb_1000_it.json",
     "id_item": "your_cb_1000_it",
     "id_album": "113162181",
     "english": "your",
-    "list_vietnam": [
+    "list_mean": [
       "của bạn; mày; anh; chị…"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-567090715"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/you_cb_1000_it.json",
     "id_item": "you_cb_1000_it",
     "id_album": "113162181",
     "english": "you",
-    "list_vietnam": [
+    "list_mean": [
       "bạn; anh; chị…",
       "mày; chúng mày"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-2070898434"
   }
 ]

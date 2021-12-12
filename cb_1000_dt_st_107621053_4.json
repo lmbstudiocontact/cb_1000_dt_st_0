@@ -4,55 +4,70 @@
     "id_item": "usually_cb_1000_it",
     "id_album": "107621053",
     "english": "usually",
-    "list_vietnam": [
+    "list_mean": [
       "thường xuyên"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1648143737"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/usual_cb_1000_it.json",
     "id_item": "usual_cb_1000_it",
     "id_album": "107621053",
     "english": "usual",
-    "list_vietnam": [
+    "list_mean": [
       "thông thường"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1173125760"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/vacancy_cb_1000_it.json",
     "id_item": "vacancy_cb_1000_it",
     "id_album": "107621053",
     "english": "vacancy",
-    "list_vietnam": [
+    "list_mean": [
       "chỗ khuyết",
       "tình trạng lơ đãng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-311844127"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/vacuum_cb_1000_it.json",
     "id_item": "vacuum_cb_1000_it",
     "id_album": "107621053",
     "english": "vacuum",
-    "list_vietnam": [
+    "list_mean": [
       "chân không",
       "máy hút bụi",
       "hút bụi"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1568899269"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/valley_cb_1000_it.json",
     "id_item": "valley_cb_1000_it",
     "id_album": "107621053",
     "english": "valley",
-    "list_vietnam": [
+    "list_mean": [
       "thung lũng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-743974021"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/value_cb_1000_it.json",
     "id_item": "value_cb_1000_it",
     "id_album": "107621053",
     "english": "value",
-    "list_vietnam": [
+    "list_mean": [
       "giá trị",
       "giá cả",
       "giá trị",
@@ -60,242 +75,308 @@
       "nhịp",
       "định giá, ước giá",
       "coi trọng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-156576421"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/van_cb_1000_it.json",
     "id_item": "van_cb_1000_it",
     "id_album": "107621053",
     "english": "van",
-    "list_vietnam": [
+    "list_mean": [
       "xe tải"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-764885498"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/vary_cb_1000_it.json",
     "id_item": "vary_cb_1000_it",
     "id_album": "107621053",
     "english": "vary",
-    "list_vietnam": [
+    "list_mean": [
       "thay đổi, biến đổi"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "550145759"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/vehicle_cb_1000_it.json",
     "id_item": "vehicle_cb_1000_it",
     "id_album": "107621053",
     "english": "vehicle",
-    "list_vietnam": [
+    "list_mean": [
       "xe cộ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "113873160"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/vein_cb_1000_it.json",
     "id_item": "vein_cb_1000_it",
     "id_album": "107621053",
     "english": "vein",
-    "list_vietnam": [
+    "list_mean": [
       "tĩnh mạch",
       "gân lá"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-605765959"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/verb_cb_1000_it.json",
     "id_item": "verb_cb_1000_it",
     "id_album": "107621053",
     "english": "verb",
-    "list_vietnam": [
+    "list_mean": [
       "động từ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "326173173"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/versatile_cb_1000_it.json",
     "id_item": "versatile_cb_1000_it",
     "id_album": "107621053",
     "english": "versatile",
-    "list_vietnam": [
+    "list_mean": [
       "tháo vát",
       "đa năng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1321170444"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/very_cb_1000_it.json",
     "id_item": "very_cb_1000_it",
     "id_album": "107621053",
     "english": "very",
-    "list_vietnam": [
+    "list_mean": [
       "rất, lắm, hết sức",
       "một cách chính xác",
       "chính, thực sự, đúng là như vậy",
       "tột cùng, tận, chính",
       "thực sự, riêng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "752435888"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/view_cb_1000_it.json",
     "id_item": "view_cb_1000_it",
     "id_album": "107621053",
     "english": "view",
-    "list_vietnam": [
+    "list_mean": [
       "quang cảnh",
       "quan điểm",
       "sự nhìn, tầm mắt",
       "nhìn, đánh giá"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1770499571"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/village_cb_1000_it.json",
     "id_item": "village_cb_1000_it",
     "id_album": "107621053",
     "english": "village",
-    "list_vietnam": [
+    "list_mean": [
       "ngôi làng",
       "dân làng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1778704609"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/visa_cb_1000_it.json",
     "id_item": "visa_cb_1000_it",
     "id_album": "107621053",
     "english": "visa",
-    "list_vietnam": [
+    "list_mean": [
       "thi thực"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1153053168"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/visit_cb_1000_it.json",
     "id_item": "visit_cb_1000_it",
     "id_album": "107621053",
     "english": "visit",
-    "list_vietnam": [
+    "list_mean": [
       "đến thăm",
       "ở chơi",
       "sự viếng thăm, sự ở chơi"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-948869776"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/voice_cb_1000_it.json",
     "id_item": "voice_cb_1000_it",
     "id_album": "107621053",
     "english": "voice",
-    "list_vietnam": [
+    "list_mean": [
       "giọng nói, hát",
       "tiếng nói, thế lực",
       "bày tỏ, nói lên",
       "phát thành âm kêu"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "957365376"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/volume_cb_1000_it.json",
     "id_item": "volume_cb_1000_it",
     "id_album": "107621053",
     "english": "volume",
-    "list_vietnam": [
+    "list_mean": [
       "quyển, cuốn sách",
       "tập",
       "dung tích, thể tích",
       "khối lượng, số lượng",
       "âm lượng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1185980347"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/vote_cb_1000_it.json",
     "id_item": "vote_cb_1000_it",
     "id_album": "107621053",
     "english": "vote",
-    "list_vietnam": [
+    "list_mean": [
       "sự bỏ phiếu, bầu cử",
       "bỏ phiếu, bấu cử",
       "thông qua trợ cấp"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-632464468"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/vowel_cb_1000_it.json",
     "id_item": "vowel_cb_1000_it",
     "id_album": "107621053",
     "english": "vowel",
-    "list_vietnam": [
+    "list_mean": [
       "nguyên âm",
       "âm nguyên âm"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-227846420"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wait_cb_1000_it.json",
     "id_item": "wait_cb_1000_it",
     "id_album": "107621053",
     "english": "wait",
-    "list_vietnam": [
+    "list_mean": [
       "đợi",
       "mong mỏi",
       "phục vụ",
       "sự chờ đợi"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-501551392"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wake_cb_1000_it.json",
     "id_item": "wake_cb_1000_it",
     "id_album": "107621053",
     "english": "wake",
-    "list_vietnam": [
+    "list_mean": [
       "tỉnh giấc",
       "đường rẽ nước"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-926809114"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/walk_cb_1000_it.json",
     "id_item": "walk_cb_1000_it",
     "id_album": "107621053",
     "english": "walk",
-    "list_vietnam": [
+    "list_mean": [
       "đi bộ",
       "đi dạo",
       "đi lang thang",
       "sự đi bộ",
       "dáng đi",
       "lối đi bộ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-618474962"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wallpaper_cb_1000_it.json",
     "id_item": "wallpaper_cb_1000_it",
     "id_album": "107621053",
     "english": "wallpaper",
-    "list_vietnam": [
+    "list_mean": [
       "giấy dán tường",
       "dán tường bằng giấy"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1107778105"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wall_cb_1000_it.json",
     "id_item": "wall_cb_1000_it",
     "id_album": "107621053",
     "english": "wall",
-    "list_vietnam": [
+    "list_mean": [
       "bức tường",
       "tường nhà",
       "xây tường bao quanh"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1600611387"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/want_cb_1000_it.json",
     "id_item": "want_cb_1000_it",
     "id_album": "107621053",
     "english": "want",
-    "list_vietnam": [
+    "list_mean": [
       "muốn",
       "cần",
       "thiếu",
       "nhu cầu",
       "nghèo đói",
       "thiếu"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1573848469"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/warm_cb_1000_it.json",
     "id_item": "warm_cb_1000_it",
     "id_album": "107621053",
     "english": "warm",
-    "list_vietnam": [
+    "list_mean": [
       "ấm",
       "có khả năng giữ ấm",
       "nhiệt tình",
@@ -304,34 +385,43 @@
       "làm ấm",
       "đối xử tốt với ai",
       "sự sưởi ấm"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-135548685"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/warn_cb_1000_it.json",
     "id_item": "warn_cb_1000_it",
     "id_album": "107621053",
     "english": "warn",
-    "list_vietnam": [
+    "list_mean": [
       "cảnh báo",
       "khuyên"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "150477692"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/war_cb_1000_it.json",
     "id_item": "war_cb_1000_it",
     "id_album": "107621053",
     "english": "war",
-    "list_vietnam": [
+    "list_mean": [
       "chiến tranh",
       "gây chiến"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-232654494"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wash_cb_1000_it.json",
     "id_item": "wash_cb_1000_it",
     "id_album": "107621053",
     "english": "wash",
-    "list_vietnam": [
+    "list_mean": [
       "rửa; giặt",
       "có thể giặt được",
       "xô vào",
@@ -342,26 +432,32 @@
       "thuốc đánh răng",
       "lớp tráng",
       "tiếng sóng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "434109923"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/waste_cb_1000_it.json",
     "id_item": "waste_cb_1000_it",
     "id_album": "107621053",
     "english": "waste",
-    "list_vietnam": [
+    "list_mean": [
       "lãng phí",
       "rác thải",
       "lãng phí",
       "hoang mạc"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "894914175"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/watch_cb_1000_it.json",
     "id_item": "watch_cb_1000_it",
     "id_album": "107621053",
     "english": "watch",
-    "list_vietnam": [
+    "list_mean": [
       "đồng hồ đeo tay",
       "canh gác",
       "đội tuần tra",
@@ -370,35 +466,44 @@
       "cẩn thận",
       "trông coi",
       "chờ đợi"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1561488894"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/waterfall_cb_1000_it.json",
     "id_item": "waterfall_cb_1000_it",
     "id_album": "107621053",
     "english": "waterfall",
-    "list_vietnam": [
+    "list_mean": [
       "thác nước"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1949997997"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/water_cb_1000_it.json",
     "id_item": "water_cb_1000_it",
     "id_album": "107621053",
     "english": "water",
-    "list_vietnam": [
+    "list_mean": [
       "nước",
       "tưới cây; cho uống nước",
       "chảy nước bọt",
       "làm chảy nước mắt"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-2017547921"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wave_cb_1000_it.json",
     "id_item": "wave_cb_1000_it",
     "id_album": "107621053",
     "english": "wave",
-    "list_vietnam": [
+    "list_mean": [
       "sóng",
       "sóng điện từ",
       "gợn sóng",
@@ -408,14 +513,17 @@
       "uốn cong",
       "vẫy",
       "dải sóng điện từ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1540083253"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/way_cb_1000_it.json",
     "id_item": "way_cb_1000_it",
     "id_album": "107621053",
     "english": "way",
-    "list_vietnam": [
+    "list_mean": [
       "đường đi",
       "đường đi",
       "đường cụ thể",
@@ -425,14 +533,17 @@
       "thói quen",
       "len qua",
       "xa"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-391164900"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wear_cb_1000_it.json",
     "id_item": "wear_cb_1000_it",
     "id_album": "107621053",
     "english": "wear",
-    "list_vietnam": [
+    "list_mean": [
       "mặc; mang; đeo",
       "để râu, tóc",
       "tỏ thái độ",
@@ -443,66 +554,84 @@
       "những thứ để mặc",
       "mòn",
       "bền"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1540278021"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/weather_cb_1000_it.json",
     "id_item": "weather_cb_1000_it",
     "id_album": "107621053",
     "english": "weather",
-    "list_vietnam": [
+    "list_mean": [
       "thời tiết",
       "làm thay đổi màu sắc, hình dáng",
       "sống sót"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1524050833"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wed_cb_1000_it.json",
     "id_item": "wed_cb_1000_it",
     "id_album": "107621053",
     "english": "wed",
-    "list_vietnam": [
+    "list_mean": [
       "cưới",
       "thứ tư"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-530275187"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/weekly_cb_1000_it.json",
     "id_item": "weekly_cb_1000_it",
     "id_album": "107621053",
     "english": "weekly",
-    "list_vietnam": [
+    "list_mean": [
       "hàng tuần",
       "tuần một lần",
       "tuần san"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1541013637"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/week_cb_1000_it.json",
     "id_item": "week_cb_1000_it",
     "id_album": "107621053",
     "english": "week",
-    "list_vietnam": [
+    "list_mean": [
       "tuần",
       "tuần năm ngày",
       "tuần làm việc"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-37286077"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/weep_cb_1000_it.json",
     "id_item": "weep_cb_1000_it",
     "id_album": "107621053",
     "english": "weep",
-    "list_vietnam": [
+    "list_mean": [
       "nhỏ nước mắt"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "173265574"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/weight_cb_1000_it.json",
     "id_item": "weight_cb_1000_it",
     "id_album": "107621053",
     "english": "weight",
-    "list_vietnam": [
+    "list_mean": [
       "trọng lượng",
       "quả cân",
       "quả tạ",
@@ -510,35 +639,44 @@
       "tầm quan trọng",
       "gắn thêm vật nặng",
       "buộc thêm vật nặng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1175851481"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/welcome_cb_1000_it.json",
     "id_item": "welcome_cb_1000_it",
     "id_album": "107621053",
     "english": "welcome",
-    "list_vietnam": [
+    "list_mean": [
       "chào mừng",
       "sự chào đón",
       "chào đón",
       "chào đón ai"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "329947624"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/welder_cb_1000_it.json",
     "id_item": "welder_cb_1000_it",
     "id_album": "107621053",
     "english": "welder",
-    "list_vietnam": [
+    "list_mean": [
       "thợ hàn"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1562049892"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/well_cb_1000_it.json",
     "id_item": "well_cb_1000_it",
     "id_album": "107621053",
     "english": "well",
-    "list_vietnam": [
+    "list_mean": [
       "giếng",
       "lồng cầu thang",
       "tuôn ra",
@@ -554,223 +692,283 @@
       "vâng",
       "tốt",
       "rất"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1549989929"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/west_cb_1000_it.json",
     "id_item": "west_cb_1000_it",
     "id_album": "107621053",
     "english": "west",
-    "list_vietnam": [
+    "list_mean": [
       "hướng tây",
       "Hướng Tây trên la bàn",
       "phía tây",
       "từ hướng tây",
       "về phía tây"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-283389583"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wet_cb_1000_it.json",
     "id_item": "wet_cb_1000_it",
     "id_album": "107621053",
     "english": "wet",
-    "list_vietnam": [
+    "list_mean": [
       "ướt",
       "có mưa",
       "bị ướt",
       "hơi ẩm",
       "mưa"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1389604298"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/what_cb_1000_it.json",
     "id_item": "what_cb_1000_it",
     "id_album": "107621053",
     "english": "what",
-    "list_vietnam": [
+    "list_mean": [
       "gì",
       "sử dụng trong câu cảm thán bày tỏ sự ngạc nhiên",
       "những thứ",
       "những điều"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-2144774125"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wheel_cb_1000_it.json",
     "id_item": "wheel_cb_1000_it",
     "id_album": "107621053",
     "english": "wheel",
-    "list_vietnam": [
+    "list_mean": [
       "bánh xe",
       "hệ thống bánh xe",
       "đi xe",
       "quay",
       "bay vòng tròn"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1380780226"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/when_cb_1000_it.json",
     "id_item": "when_cb_1000_it",
     "id_album": "107621053",
     "english": "when",
-    "list_vietnam": [
+    "list_mean": [
       "khi nào",
       "khi mà",
       "mặc dù"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1512069341"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/where_cb_1000_it.json",
     "id_item": "where_cb_1000_it",
     "id_album": "107621053",
     "english": "where",
-    "list_vietnam": [
+    "list_mean": [
       "ở đâu",
       "nơi mà"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-2096668965"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/whether_cb_1000_it.json",
     "id_item": "whether_cb_1000_it",
     "id_album": "107621053",
     "english": "whether",
-    "list_vietnam": [
+    "list_mean": [
       "liệu có"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1237782396"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/which_cb_1000_it.json",
     "id_item": "which_cb_1000_it",
     "id_album": "107621053",
     "english": "which",
-    "list_vietnam": [
+    "list_mean": [
       "cái nào; người nào",
       "dùng để nhắc tới cái gì đã được nhắc tới trước đó",
       "người hoặc vật nào trong số lượng hạn chế"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1554712496"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/while_cb_1000_it.json",
     "id_item": "while_cb_1000_it",
     "id_album": "107621053",
     "english": "while",
-    "list_vietnam": [
+    "list_mean": [
       "trong khi",
       "mặc dù",
       "một lúc"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-680453098"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/white_cb_1000_it.json",
     "id_item": "white_cb_1000_it",
     "id_album": "107621053",
     "english": "white",
-    "list_vietnam": [
+    "list_mean": [
       "trắng",
       "da trắng",
       "trắng bệch vì sợ hãi",
       "có sữa"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-223161557"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wholesaler_cb_1000_it.json",
     "id_item": "wholesaler_cb_1000_it",
     "id_album": "107621053",
     "english": "wholesaler",
-    "list_vietnam": [
+    "list_mean": [
       "người bán sỉ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1649466179"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wholesale_cb_1000_it.json",
     "id_item": "wholesale_cb_1000_it",
     "id_album": "107621053",
     "english": "wholesale",
-    "list_vietnam": [
+    "list_mean": [
       "bán sỉ",
       "trên quy mô lớn"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "377501033"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/whole_cb_1000_it.json",
     "id_item": "whole_cb_1000_it",
     "id_album": "107621053",
     "english": "whole",
-    "list_vietnam": [
+    "list_mean": [
       "toàn bộ",
       "tất cả",
       "trọn vẹn",
       "toàn bộ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "464235092"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/whose_cb_1000_it.json",
     "id_item": "whose_cb_1000_it",
     "id_album": "107621053",
     "english": "whose",
-    "list_vietnam": [
+    "list_mean": [
       "của ai",
       "của ai"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1835620063"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/who_cb_1000_it.json",
     "id_item": "who_cb_1000_it",
     "id_album": "107621053",
     "english": "who",
-    "list_vietnam": [
+    "list_mean": [
       "ai",
       "chỉ người đã nhắc tới trước đó",
       "bổ nghĩa thêm cho người được nhắc trước đó"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "940004307"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/why_cb_1000_it.json",
     "id_item": "why_cb_1000_it",
     "id_album": "107621053",
     "english": "why",
-    "list_vietnam": [
+    "list_mean": [
       "tại sao",
       "tại sao"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1228171105"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wide_cb_1000_it.json",
     "id_item": "wide_cb_1000_it",
     "id_album": "107621053",
     "english": "wide",
-    "list_vietnam": [
+    "list_mean": [
       "rộng",
       "có chiều rộng",
       "nhiều",
       "có nhiều",
       "rộng ra"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-811043514"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/width_cb_1000_it.json",
     "id_item": "width_cb_1000_it",
     "id_album": "107621053",
     "english": "width",
-    "list_vietnam": [
+    "list_mean": [
       "bề rộng",
       "tính chất rộng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-847485793"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wife_cb_1000_it.json",
     "id_item": "wife_cb_1000_it",
     "id_album": "107621053",
     "english": "wife",
-    "list_vietnam": [
+    "list_mean": [
       "vợ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "11596"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wild_cb_1000_it.json",
     "id_item": "wild_cb_1000_it",
     "id_album": "107621053",
     "english": "wild",
-    "list_vietnam": [
+    "list_mean": [
       "hoang dã",
       "hoang",
       "hỗn loạn",
@@ -779,14 +977,17 @@
       "rồ dại",
       "không chính xác",
       "giận giữ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1091508911"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/will_cb_1000_it.json",
     "id_item": "will_cb_1000_it",
     "id_album": "107621053",
     "english": "will",
-    "list_vietnam": [
+    "list_mean": [
       "ý chí",
       "quyết tâm",
       "di chúc",
@@ -794,32 +995,41 @@
       "dùng trong câu mệnh lệnh",
       "sẵn sàng",
       "tất nhiên"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1555141957"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/window_cb_1000_it.json",
     "id_item": "window_cb_1000_it",
     "id_album": "107621053",
     "english": "window",
-    "list_vietnam": [
+    "list_mean": [
       "cửa sổ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1558799082"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/windy_cb_1000_it.json",
     "id_item": "windy_cb_1000_it",
     "id_album": "107621053",
     "english": "windy",
-    "list_vietnam": [
+    "list_mean": [
       "có gió"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1235209920"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wind_cb_1000_it.json",
     "id_item": "wind_cb_1000_it",
     "id_album": "107621053",
     "english": "wind",
-    "list_vietnam": [
+    "list_mean": [
       "gió",
       "hơi thở",
       "sự đầy bụng",
@@ -829,14 +1039,17 @@
       "xoắn",
       "bao quanh",
       "lên dây cót"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1393766782"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wing_cb_1000_it.json",
     "id_item": "wing_cb_1000_it",
     "id_album": "107621053",
     "english": "wing",
-    "list_vietnam": [
+    "list_mean": [
       "cánh",
       "cánh máy bay",
       "chái nhà",
@@ -845,35 +1058,44 @@
       "cánh (trong bóng đá)",
       "cầu thủ chạy biên",
       "phi đội"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "472499148"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/winter_cb_1000_it.json",
     "id_item": "winter_cb_1000_it",
     "id_album": "107621053",
     "english": "winter",
-    "list_vietnam": [
+    "list_mean": [
       "mùa đông"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1452833958"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/win_cb_1000_it.json",
     "id_item": "win_cb_1000_it",
     "id_album": "107621053",
     "english": "win",
-    "list_vietnam": [
+    "list_mean": [
       "thắng",
       "đạt được",
       "có được",
       "sự chiến thắng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-665951394"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wire_cb_1000_it.json",
     "id_item": "wire_cb_1000_it",
     "id_album": "107621053",
     "english": "wire",
-    "list_vietnam": [
+    "list_mean": [
       "dây kim loại",
       "dây dẫn điện",
       "dây dẫn âm thanh",
@@ -881,39 +1103,48 @@
       "mắc điện",
       "gửi điện",
       "gửi điện tín"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "635378851"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wish_cb_1000_it.json",
     "id_item": "wish_cb_1000_it",
     "id_album": "107621053",
     "english": "wish",
-    "list_vietnam": [
+    "list_mean": [
       "ước",
       "yêu cầu",
       "chúc",
       "mong ước",
       "điều ước",
       "lời chúc"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-256873483"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/withdraw_cb_1000_it.json",
     "id_item": "withdraw_cb_1000_it",
     "id_album": "107621053",
     "english": "withdraw",
-    "list_vietnam": [
+    "list_mean": [
       "rút quân",
       "lấy lại",
       "rút tiền"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1950796965"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/with_cb_1000_it.json",
     "id_item": "with_cb_1000_it",
     "id_album": "107621053",
     "english": "with",
-    "list_vietnam": [
+    "list_mean": [
       "với",
       "bằng",
       "với",
@@ -923,81 +1154,102 @@
       "để ai coi hộ",
       "với",
       "mong muốn"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1916206643"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/withhold_cb_1000_it.json",
     "id_item": "withhold_cb_1000_it",
     "id_album": "107621053",
     "english": "withhold",
-    "list_vietnam": [
+    "list_mean": [
       "từ chối"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1129478011"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/withstand_cb_1000_it.json",
     "id_item": "withstand_cb_1000_it",
     "id_album": "107621053",
     "english": "withstand",
-    "list_vietnam": [
+    "list_mean": [
       "chống lại"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1984792216"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/woman_cb_1000_it.json",
     "id_item": "woman_cb_1000_it",
     "id_album": "107621053",
     "english": "woman",
-    "list_vietnam": [
+    "list_mean": [
       "người đàn bà đã có chồng",
       "bà hầu cận",
       "phụ nữ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-39370852"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/wonder_cb_1000_it.json",
     "id_item": "wonder_cb_1000_it",
     "id_album": "107621053",
     "english": "wonder",
-    "list_vietnam": [
+    "list_mean": [
       "sự ngạc nhiên",
       "điều ngạc nhiên",
       "điều gây ngạc nhiên",
       "ngạc nhiên",
       "nghi ngờ",
       "tò mò"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-969176186"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/wood_cb_1000_it.json",
     "id_item": "wood_cb_1000_it",
     "id_album": "107621053",
     "english": "wood",
-    "list_vietnam": [
+    "list_mean": [
       "gỗ",
       "rừng",
       "gậy đánh gôn"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1624233899"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/word_cb_1000_it.json",
     "id_item": "word_cb_1000_it",
     "id_album": "107621053",
     "english": "word",
-    "list_vietnam": [
+    "list_mean": [
       "từ",
       "cuộc nói chuyện",
       "tin tức",
       "lời hứa",
       "bày tỏ bằng lời"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "830115445"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/work_cb_1000_it.json",
     "id_item": "work_cb_1000_it",
     "id_album": "107621053",
     "english": "work",
-    "list_vietnam": [
+    "list_mean": [
       "nỗ lực",
       "công việc",
       "nhiệm vụ",
@@ -1013,14 +1265,17 @@
       "chế tác",
       "tác phẩm",
       "phần"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1961168277"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/world_cb_1000_it.json",
     "id_item": "world_cb_1000_it",
     "id_album": "107621053",
     "english": "world",
-    "list_vietnam": [
+    "list_mean": [
       "Thế giới",
       "nhân loại",
       "vũ trụ",
@@ -1028,86 +1283,110 @@
       "việc đời",
       "nhiều",
       "thiên hạ"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1652139544"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/worried_cb_1000_it.json",
     "id_item": "worried_cb_1000_it",
     "id_album": "107621053",
     "english": "worried",
-    "list_vietnam": [
+    "list_mean": [
       "lo lắng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "284307800"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/worry_cb_1000_it.json",
     "id_item": "worry_cb_1000_it",
     "id_album": "107621053",
     "english": "worry",
-    "list_vietnam": [
+    "list_mean": [
       "khiến ai lo lắng",
       "làm phiền",
       "ngoạm",
       "mối lo lắng"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-149626162"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/would_cb_1000_it.json",
     "id_item": "would_cb_1000_it",
     "id_album": "107621053",
     "english": "would",
-    "list_vietnam": [
+    "list_mean": [
       "quá khứ của will",
       "hỏi lịch sự",
       "nêu quan điểm, ý kiến",
       "sử dụng để nhấn mạnh"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1931174848"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/wring_cb_1000_it.json",
     "id_item": "wring_cb_1000_it",
     "id_album": "107621053",
     "english": "wring",
-    "list_vietnam": [
+    "list_mean": [
       "vắt",
       "vò đầu bứt tay"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "251622810"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/wrist_cb_1000_it.json",
     "id_item": "wrist_cb_1000_it",
     "id_album": "107621053",
     "english": "wrist",
-    "list_vietnam": [
+    "list_mean": [
       "cổ tay"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1534770557"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/write_cb_1000_it.json",
     "id_item": "write_cb_1000_it",
     "id_album": "107621053",
     "english": "write",
-    "list_vietnam": [
+    "list_mean": [
       "viết",
       "viết sách",
       "viết thư"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1928615712"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/written_cb_1000_it.json",
     "id_item": "written_cb_1000_it",
     "id_album": "107621053",
     "english": "written",
-    "list_vietnam": [
+    "list_mean": [
       "được viết"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-151265720"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_2/raw/main/wrong_cb_1000_it.json",
     "id_item": "wrong_cb_1000_it",
     "id_album": "107621053",
     "english": "wrong",
-    "list_vietnam": [
+    "list_mean": [
       "sai",
       "nhầm",
       "không đúng đắn về đạo lý",
@@ -1116,6 +1395,9 @@
       "không đúng",
       "điều sai trái",
       "đổ tiếng xấu"
-    ]
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2018251780"
   }
 ]
