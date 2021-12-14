@@ -1,46 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/breast_cb_1000_it.json",
-    "id_item": "breast_cb_1000_it",
-    "id_album": "90997657",
-    "english": "breast",
-    "list_mean": [
-      "vú",
-      "ngực",
-      "đối diện",
-      "lên đến đỉnh…"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1335426697"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/breed_cb_1000_it.json",
-    "id_item": "breed_cb_1000_it",
-    "id_album": "90997657",
-    "english": "breed",
-    "list_mean": [
-      "sinh sản",
-      "gây giống",
-      "nòi giống"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "2005845204"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/breeze_cb_1000_it.json",
-    "id_item": "breeze_cb_1000_it",
-    "id_album": "90997657",
-    "english": "breeze",
-    "list_mean": [
-      "gió nhẹ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "155145231"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/brick_cb_1000_it.json",
     "id_item": "brick_cb_1000_it",
     "id_album": "90997657",
@@ -434,18 +393,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-372037572"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/canary_cb_1000_it.json",
-    "id_item": "canary_cb_1000_it",
-    "id_album": "90997657",
-    "english": "canary",
-    "list_mean": [
-      "chim hoàng yến"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1513968670"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/candidate_cb_1000_it.json",
@@ -1435,5 +1382,70 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-258725191"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/climb_cb_1000_it.json",
+    "id_item": "climb_cb_1000_it",
+    "id_album": "90997657",
+    "english": "climb",
+    "list_mean": [
+      "trèo leo",
+      "leo trèo",
+      "hành động leo trèo",
+      "vật leo trèo"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1753352857"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cling_cb_1000_it.json",
+    "id_item": "cling_cb_1000_it",
+    "id_album": "90997657",
+    "english": "cling",
+    "list_mean": [
+      "bám chặt vào"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1955489176"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/clock_cb_1000_it.json",
+    "id_item": "clock_cb_1000_it",
+    "id_album": "90997657",
+    "english": "clock",
+    "list_mean": [
+      "đồng hồ",
+      "đồng hồ công tơ mét",
+      "bấm giờ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1921537001"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/close_cb_1000_it.json",
+    "id_item": "close_cb_1000_it",
+    "id_album": "90997657",
+    "english": "close",
+    "list_mean": [
+      "gần",
+      "vừa vặn",
+      "gần trong quan hệ",
+      "sát nhau",
+      "cẩn thận",
+      "bó sát",
+      "ngột ngạt",
+      "keo kiệt",
+      "thích giữ bí mật",
+      "đóng",
+      "kết thúc",
+      "hoàn tất",
+      "phần kết thúc"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-596325818"
   }
 ]

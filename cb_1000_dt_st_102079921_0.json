@@ -1,6 +1,6 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/machine_cb_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/machine_cb_1000_it.json",
     "id_item": "machine_cb_1000_it",
     "id_album": "102079921",
     "english": "machine",
@@ -15,7 +15,7 @@
     "hash_code_list_mean": "-1969445469"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/magenta_cb_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/magenta_cb_1000_it.json",
     "id_item": "magenta_cb_1000_it",
     "id_album": "102079921",
     "english": "magenta",
@@ -28,7 +28,7 @@
     "hash_code_list_mean": "-973904943"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/magnet_cb_1000_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/magnet_cb_1000_it.json",
     "id_item": "magnet_cb_1000_it",
     "id_album": "102079921",
     "english": "magnet",
@@ -38,6 +38,19 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1777306197"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/main_cb_1000_it.json",
+    "id_item": "main_cb_1000_it",
+    "id_album": "102079921",
+    "english": "main",
+    "list_mean": [
+      "chính; quan trọng nhất",
+      "đường trục chính; mạng lưới chính"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1624888717"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/mainly_cb_1000_it.json",
@@ -65,19 +78,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1425480956"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/main_cb_1000_it.json",
-    "id_item": "main_cb_1000_it",
-    "id_album": "102079921",
-    "english": "main",
-    "list_mean": [
-      "chính; quan trọng nhất",
-      "đường trục chính; mạng lưới chính"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1624888717"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/major_cb_1000_it.json",
@@ -687,18 +687,6 @@
     "hash_code_list_mean": "-1132075385"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/miner_cb_1000_it.json",
-    "id_item": "miner_cb_1000_it",
-    "id_album": "102079921",
-    "english": "miner",
-    "list_mean": [
-      "thợ mỏ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-642340110"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/mine_cb_1000_it.json",
     "id_item": "mine_cb_1000_it",
     "id_album": "102079921",
@@ -911,18 +899,6 @@
     "hash_code_list_mean": "1608133627"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/molecule_cb_1000_it.json",
-    "id_item": "molecule_cb_1000_it",
-    "id_album": "102079921",
-    "english": "molecule",
-    "list_mean": [
-      "phân tử"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-489336076"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/moment_cb_1000_it.json",
     "id_item": "moment_cb_1000_it",
     "id_album": "102079921",
@@ -946,18 +922,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "3800865"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/month_cb_1000_it.json",
-    "id_item": "month_cb_1000_it",
-    "id_album": "102079921",
-    "english": "month",
-    "list_mean": [
-      "tháng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "110446469"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/moon_cb_1000_it.json",
@@ -1103,18 +1067,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-1900777465"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/mountaineering_cb_1000_it.json",
-    "id_item": "mountaineering_cb_1000_it",
-    "id_album": "102079921",
-    "english": "mountaineering",
-    "list_mean": [
-      "sự leo núi"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1446574448"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/mountain_cb_1000_it.json",
@@ -1452,5 +1404,61 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "457466630"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/need_cb_1000_it.json",
+    "id_item": "need_cb_1000_it",
+    "id_album": "102079921",
+    "english": "need",
+    "list_mean": [
+      "cần",
+      "buộc phải",
+      "nhu cầu",
+      "tình cảnh túng thiếu",
+      "cần thiết"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1229675834"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/nerve_cb_1000_it.json",
+    "id_item": "nerve_cb_1000_it",
+    "id_album": "102079921",
+    "english": "nerve",
+    "list_mean": [
+      "dây thần kinh",
+      "sự can đảm",
+      "táo tợn",
+      "truyền can đảm"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1905161973"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/nervous_cb_1000_it.json",
+    "id_item": "nervous_cb_1000_it",
+    "id_album": "102079921",
+    "english": "nervous",
+    "list_mean": [
+      "về dây thần kinh",
+      "sợ hãi"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "502529948"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/never_cb_1000_it.json",
+    "id_item": "never_cb_1000_it",
+    "id_album": "102079921",
+    "english": "never",
+    "list_mean": [
+      "không bao giờ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1106990426"
   }
 ]

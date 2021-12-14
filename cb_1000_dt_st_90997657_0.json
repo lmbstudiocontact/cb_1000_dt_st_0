@@ -335,18 +335,6 @@
     "hash_code_list_mean": "-1815540375"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/adventurous_cb_1000_it.json",
-    "id_item": "adventurous_cb_1000_it",
-    "id_album": "90997657",
-    "english": "adventurous",
-    "list_mean": [
-      "thích phiêu lưu"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1572538454"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/advise_cb_1000_it.json",
     "id_item": "advise_cb_1000_it",
     "id_album": "90997657",
@@ -638,18 +626,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1003872432"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/alto_cb_1000_it.json",
-    "id_item": "alto_cb_1000_it",
-    "id_album": "90997657",
-    "english": "alto",
-    "list_mean": [
-      "giọng nữ trầm"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1208645446"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/always_cb_1000_it.json",
@@ -1370,5 +1346,29 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "3344"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/author_cb_1000_it.json",
+    "id_item": "author_cb_1000_it",
+    "id_album": "90997657",
+    "english": "author",
+    "list_mean": [
+      "tác giả"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2110295574"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/availability_cb_1000_it.json",
+    "id_item": "availability_cb_1000_it",
+    "id_album": "90997657",
+    "english": "availability",
+    "list_mean": [
+      "tính sẵn sàng"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1123156986"
   }
 ]

@@ -1,95 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dump_cb_1000_it.json",
-    "id_item": "dump_cb_1000_it",
-    "id_album": "90997657",
-    "english": "dump",
-    "list_mean": [
-      "ném phịch xuống",
-      "đổ thành đống",
-      "nơi đổ rác"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-2123727415"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dune_cb_1000_it.json",
-    "id_item": "dune_cb_1000_it",
-    "id_album": "90997657",
-    "english": "dune",
-    "list_mean": [
-      "đụn cát"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "667667791"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/during_cb_1000_it.json",
-    "id_item": "during_cb_1000_it",
-    "id_album": "90997657",
-    "english": "during",
-    "list_mean": [
-      "trong thời gian",
-      "trong lúc"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1770126439"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dustpan_cb_1000_it.json",
-    "id_item": "dustpan_cb_1000_it",
-    "id_album": "90997657",
-    "english": "dustpan",
-    "list_mean": [
-      "cái hót rác"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "936991623"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dust_cb_1000_it.json",
-    "id_item": "dust_cb_1000_it",
-    "id_album": "90997657",
-    "english": "dust",
-    "list_mean": [
-      "bụi",
-      "bụi",
-      "phủi bụi"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-980683041"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dwell_cb_1000_it.json",
-    "id_item": "dwell_cb_1000_it",
-    "id_album": "90997657",
-    "english": "dwell",
-    "list_mean": [
-      "cư ngụ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1060650120"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dynamic_cb_1000_it.json",
-    "id_item": "dynamic_cb_1000_it",
-    "id_album": "90997657",
-    "english": "dynamic",
-    "list_mean": [
-      "động lực",
-      "năng động"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "919601493"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/each_cb_1000_it.json",
     "id_item": "each_cb_1000_it",
     "id_album": "90997657",
@@ -102,18 +12,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "477237049"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/eagle_cb_1000_it.json",
-    "id_item": "eagle_cb_1000_it",
-    "id_album": "90997657",
-    "english": "eagle",
-    "list_mean": [
-      "đại bàng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1141020643"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/early_cb_1000_it.json",
@@ -446,18 +344,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1963194956"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/emit_cb_1000_it.json",
-    "id_item": "emit_cb_1000_it",
-    "id_album": "90997657",
-    "english": "emit",
-    "list_mean": [
-      "toả ra"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-637789722"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/emotional_cb_1000_it.json",
@@ -1216,31 +1102,6 @@
     "hash_code_list_mean": "1562544843"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/eyeball_cb_1000_it.json",
-    "id_item": "eyeball_cb_1000_it",
-    "id_album": "90997657",
-    "english": "eyeball",
-    "list_mean": [
-      "cầu mắt",
-      "nhãn cầu"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "487365748"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/eyebrow_cb_1000_it.json",
-    "id_item": "eyebrow_cb_1000_it",
-    "id_album": "90997657",
-    "english": "eyebrow",
-    "list_mean": [
-      "lông mày"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-2084346"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/eye_cb_1000_it.json",
     "id_item": "eye_cb_1000_it",
     "id_album": "90997657",
@@ -1393,5 +1254,172 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "2070979630"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/fan_cb_1000_it.json",
+    "id_item": "fan_cb_1000_it",
+    "id_album": "90997657",
+    "english": "fan",
+    "list_mean": [
+      "cái quạt",
+      "quạt máy",
+      "quạt",
+      "thổi bùng",
+      "người hâm mộ; người say mê"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "251483880"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/farm_cb_1000_it.json",
+    "id_item": "farm_cb_1000_it",
+    "id_album": "90997657",
+    "english": "farm",
+    "list_mean": [
+      "trại; trang trại",
+      "nhà ở trong trang trại",
+      "cày cấy; trồng trọt"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "699610088"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/far_cb_1000_it.json",
+    "id_item": "far_cb_1000_it",
+    "id_album": "90997657",
+    "english": "far",
+    "list_mean": [
+      "xa; xa xưa;",
+      "xa",
+      "rất nhiều",
+      "xa",
+      "xa hơn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "119645002"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/fast_cb_1000_it.json",
+    "id_item": "fast_cb_1000_it",
+    "id_album": "90997657",
+    "english": "fast",
+    "list_mean": [
+      "nhanh",
+      "nhanh",
+      "(đồng hồ) chạy nhanh",
+      "vững vàng; chắc chắn",
+      "ăn chay; nhịn đói",
+      "thời kỳ nhịn ăn, ăn chay, ăn kiêng",
+      "bền; không phai",
+      "chắc chắn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "765280337"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/father_cb_1000_it.json",
+    "id_item": "father_cb_1000_it",
+    "id_album": "90997657",
+    "english": "father",
+    "list_mean": [
+      "cha; bố",
+      "cha cố",
+      "tổ tiên; ông tổ",
+      "là cha của (ai); sinh ra"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "275120544"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/fat_cb_1000_it.json",
+    "id_item": "fat_cb_1000_it",
+    "id_album": "90997657",
+    "english": "fat",
+    "list_mean": [
+      "mỡ; chất béo",
+      "dầu; mỡ ăn",
+      "béo mập",
+      "nhiều về số lượng; giá trị"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1200811283"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/fearless_cb_1000_it.json",
+    "id_item": "fearless_cb_1000_it",
+    "id_album": "90997657",
+    "english": "fearless",
+    "list_mean": [
+      "can đảm; chẳng sợ cái gì"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "718307040"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/fear_cb_1000_it.json",
+    "id_item": "fear_cb_1000_it",
+    "id_album": "90997657",
+    "english": "fear",
+    "list_mean": [
+      "sự sợ hãi",
+      "sợ (ai/cái gì)",
+      "lo ngại"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1239984707"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/feature_cb_1000_it.json",
+    "id_item": "feature_cb_1000_it",
+    "id_album": "90997657",
+    "english": "feature",
+    "list_mean": [
+      "đặc trưng",
+      "nét (mặt)",
+      "bài đặc biệt (trong một tờ báo)",
+      "tiết mục chủ chốt; bộ phim chính",
+      "dành vai nổi bật cho"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1331950925"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/feed_cb_1000_it.json",
+    "id_item": "feed_cb_1000_it",
+    "id_album": "90997657",
+    "english": "feed",
+    "list_mean": [
+      "nuôi",
+      "(về súc vật hoặc nói đùa về người) ăn",
+      "thức ăn dành cho súc vật hoặc trẻ nhỏ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1970581448"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/feel_cb_1000_it.json",
+    "id_item": "feel_cb_1000_it",
+    "id_album": "90997657",
+    "english": "feel",
+    "list_mean": [
+      "cảm thấy",
+      "sờ mó",
+      "có cảm giác; cảm thấy",
+      "cảm thấy",
+      "tin; cho rằng"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "926020950"
   }
 ]

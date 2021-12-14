@@ -287,18 +287,6 @@
     "hash_code_list_mean": "-773253183"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/glider_cb_1000_it.json",
-    "id_item": "glider_cb_1000_it",
-    "id_album": "96538789",
-    "english": "glider",
-    "list_mean": [
-      "tàu lượn"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "622938757"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/glue_cb_1000_it.json",
     "id_item": "glue_cb_1000_it",
     "id_album": "96538789",
@@ -323,18 +311,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1425997406"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/godfather_cb_1000_it.json",
-    "id_item": "godfather_cb_1000_it",
-    "id_album": "96538789",
-    "english": "godfather",
-    "list_mean": [
-      "cha mẹ đỡ đầu"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "145217438"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/going_cb_1000_it.json",
@@ -566,18 +542,6 @@
     "hash_code_list_mean": "-1216628664"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/greedily_cb_1000_it.json",
-    "id_item": "greedily_cb_1000_it",
-    "id_album": "96538789",
-    "english": "greedily",
-    "list_mean": [
-      "tham lam"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "992389943"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/green_cb_1000_it.json",
     "id_item": "green_cb_1000_it",
     "id_album": "96538789",
@@ -688,18 +652,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-764407974"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/gull_cb_1000_it.json",
-    "id_item": "gull_cb_1000_it",
-    "id_album": "96538789",
-    "english": "gull",
-    "list_mean": [
-      "mòng biển"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1062925069"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/gun_cb_1000_it.json",
@@ -1026,19 +978,6 @@
     "hash_code_list_mean": "-911955317"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hawk_cb_1000_it.json",
-    "id_item": "hawk_cb_1000_it",
-    "id_album": "96538789",
-    "english": "hawk",
-    "list_mean": [
-      "diều hâu",
-      "bán hàng rong"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1316149889"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hazardous_cb_1000_it.json",
     "id_item": "hazardous_cb_1000_it",
     "id_album": "96538789",
@@ -1203,18 +1142,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "232332929"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/helicopter_cb_1000_it.json",
-    "id_item": "helicopter_cb_1000_it",
-    "id_album": "96538789",
-    "english": "helicopter",
-    "list_mean": [
-      "trực thăng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1741171305"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/helpful_cb_1000_it.json",
@@ -1526,5 +1453,91 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-608589469"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/horse_cb_1000_it.json",
+    "id_item": "horse_cb_1000_it",
+    "id_album": "96538789",
+    "english": "horse",
+    "list_mean": [
+      "con ngựa",
+      "ngựa gỗ (trong thể thao)"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "620832907"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hose_cb_1000_it.json",
+    "id_item": "hose_cb_1000_it",
+    "id_album": "96538789",
+    "english": "hose",
+    "list_mean": [
+      "ống vòi",
+      "bít tất dài",
+      "rửa hoặc tưới nước bằng vòi"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "888225253"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hot_cb_1000_it.json",
+    "id_item": "hot_cb_1000_it",
+    "id_album": "96538789",
+    "english": "hot",
+    "list_mean": [
+      "nóng",
+      "nóng bức",
+      "cay nồng",
+      "nóng nảy",
+      "nóng hổi"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "334493886"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hound_cb_1000_it.json",
+    "id_item": "hound_cb_1000_it",
+    "id_album": "96538789",
+    "english": "hound",
+    "list_mean": [
+      "chó săn",
+      "săn lùng"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "922946461"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hour_cb_1000_it.json",
+    "id_item": "hour_cb_1000_it",
+    "id_album": "96538789",
+    "english": "hour",
+    "list_mean": [
+      "giờ; tiếng (đồng hồ)",
+      "khoảng thời gian ấn định để làm gì"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1430981061"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/house_cb_1000_it.json",
+    "id_item": "house_cb_1000_it",
+    "id_album": "96538789",
+    "english": "house",
+    "list_mean": [
+      "nhà ở; căn nhà",
+      "nhà; chuồng",
+      "nhà hát",
+      "dòng họ",
+      "cung cấp nhà ở cho",
+      "ở; trú"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1189681547"
   }
 ]

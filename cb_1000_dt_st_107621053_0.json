@@ -62,18 +62,6 @@
     "hash_code_list_mean": "1549575397"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/salmon_cb_1000_it.json",
-    "id_item": "salmon_cb_1000_it",
-    "id_album": "107621053",
-    "english": "salmon",
-    "list_mean": [
-      "cá hồi"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1251591109"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/salt_cb_1000_it.json",
     "id_item": "salt_cb_1000_it",
     "id_album": "107621053",
@@ -184,18 +172,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-599329672"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/scallop_cb_1000_it.json",
-    "id_item": "scallop_cb_1000_it",
-    "id_album": "107621053",
-    "english": "scallop",
-    "list_mean": [
-      "con điệp, sò"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "230550993"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/scared_cb_1000_it.json",
@@ -917,18 +893,6 @@
     "hash_code_list_mean": "-1303346766"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/shark_cb_1000_it.json",
-    "id_item": "shark_cb_1000_it",
-    "id_album": "107621053",
-    "english": "shark",
-    "list_mean": [
-      "cá mập"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1251587475"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sharp_cb_1000_it.json",
     "id_item": "sharp_cb_1000_it",
     "id_album": "107621053",
@@ -1100,18 +1064,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-2021054925"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/shit_cb_1000_it.json",
-    "id_item": "shit_cb_1000_it",
-    "id_album": "107621053",
-    "english": "shit",
-    "list_mean": [
-      "cứt, sự đi ỉa"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1019798785"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/shoe_cb_1000_it.json",
@@ -1326,19 +1278,6 @@
     "hash_code_list_mean": "796022513"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/shrimp_cb_1000_it.json",
-    "id_item": "shrimp_cb_1000_it",
-    "id_album": "107621053",
-    "english": "shrimp",
-    "list_mean": [
-      "con tôm",
-      "người có tầm vóc nhỏ bé"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1620241545"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/shrink_cb_1000_it.json",
     "id_item": "shrink_cb_1000_it",
     "id_album": "107621053",
@@ -1539,5 +1478,87 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "2003530742"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/since_cb_1000_it.json",
+    "id_item": "since_cb_1000_it",
+    "id_album": "107621053",
+    "english": "since",
+    "list_mean": [
+      "từ khi",
+      "kể từ",
+      "bởi vì, vì lẽ rằng",
+      "từ lúc ấy",
+      "từ đó",
+      "từ một thời điểm trong quá khứ đến nay",
+      "kể từ",
+      "kể từ khi"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-393574619"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/single_cb_1000_it.json",
+    "id_item": "single_cb_1000_it",
+    "id_album": "107621053",
+    "english": "single",
+    "list_mean": [
+      "đơn độc",
+      "đơn",
+      "độc thân",
+      "một chiều",
+      "đĩa ghi âm mỗi mặt chỉ có ghi một bài hát ngắn",
+      "vé một chiều"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "864013979"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sing_cb_1000_it.json",
+    "id_item": "sing_cb_1000_it",
+    "id_album": "107621053",
+    "english": "sing",
+    "list_mean": [
+      "hát, hót",
+      "số ít"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-496321104"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sink_cb_1000_it.json",
+    "id_item": "sink_cb_1000_it",
+    "id_album": "107621053",
+    "english": "sink",
+    "list_mean": [
+      "chìm",
+      "lặn xuống dưới chân trời",
+      "xuyên vào, ngập sâu vào",
+      "xuống thấp, lắng xuống",
+      "đầu tư",
+      "bồn rửa bát, chậu rửa bát"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1398959812"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sister_cb_1000_it.json",
+    "id_item": "sister_cb_1000_it",
+    "id_album": "107621053",
+    "english": "sister",
+    "list_mean": [
+      "chị, em gái",
+      "bà xơ",
+      "bà chị ,cô em",
+      "chị em",
+      "có tính chất chị em"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-776293925"
   }
 ]

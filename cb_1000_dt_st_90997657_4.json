@@ -1,99 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cushion_cb_1000_it.json",
-    "id_item": "cushion_cb_1000_it",
-    "id_album": "90997657",
-    "english": "cushion",
-    "list_mean": [
-      "cái đệm",
-      "hơi đệm",
-      "lót nệm"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1273965221"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cut_cb_1000_it.json",
-    "id_item": "cut_cb_1000_it",
-    "id_album": "90997657",
-    "english": "cut",
-    "list_mean": [
-      "cắt",
-      "cắt rời từng mảnh",
-      "cắt may",
-      "cắt ngắn",
-      "cắt giảm",
-      "cắt bỏ",
-      "cắt đứt",
-      "phân chia",
-      "dừng",
-      "đi tắt",
-      "tiếp xúc",
-      "trốn học",
-      "lờ",
-      "cắt",
-      "cắt ngắn",
-      "miếng thịt"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "201859011"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dad_cb_1000_it.json",
-    "id_item": "dad_cb_1000_it",
-    "id_album": "90997657",
-    "english": "dad",
-    "list_mean": [
-      "cha, bố"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "736916958"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/daily_cb_1000_it.json",
-    "id_item": "daily_cb_1000_it",
-    "id_album": "90997657",
-    "english": "daily",
-    "list_mean": [
-      "hàng ngày",
-      "hàng ngày",
-      "nhật báo",
-      "người giúp việc"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1173954742"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/damage_cb_1000_it.json",
-    "id_item": "damage_cb_1000_it",
-    "id_album": "90997657",
-    "english": "damage",
-    "list_mean": [
-      "sự hư hại",
-      "khoản tiền được trả hay đòi phải trả để bồi thường thiệt hại",
-      "gây hư hại"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-426340395"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dancer_cb_1000_it.json",
-    "id_item": "dancer_cb_1000_it",
-    "id_album": "90997657",
-    "english": "dancer",
-    "list_mean": [
-      "diễn viên múa"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1572692316"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dance_cb_1000_it.json",
     "id_item": "dance_cb_1000_it",
     "id_album": "90997657",
@@ -1439,5 +1345,83 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "554741250"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dump_cb_1000_it.json",
+    "id_item": "dump_cb_1000_it",
+    "id_album": "90997657",
+    "english": "dump",
+    "list_mean": [
+      "ném phịch xuống",
+      "đổ thành đống",
+      "nơi đổ rác"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-2123727415"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/during_cb_1000_it.json",
+    "id_item": "during_cb_1000_it",
+    "id_album": "90997657",
+    "english": "during",
+    "list_mean": [
+      "trong thời gian",
+      "trong lúc"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1770126439"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dustpan_cb_1000_it.json",
+    "id_item": "dustpan_cb_1000_it",
+    "id_album": "90997657",
+    "english": "dustpan",
+    "list_mean": [
+      "cái hót rác"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "936991623"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dust_cb_1000_it.json",
+    "id_item": "dust_cb_1000_it",
+    "id_album": "90997657",
+    "english": "dust",
+    "list_mean": [
+      "bụi",
+      "bụi",
+      "phủi bụi"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-980683041"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dwell_cb_1000_it.json",
+    "id_item": "dwell_cb_1000_it",
+    "id_album": "90997657",
+    "english": "dwell",
+    "list_mean": [
+      "cư ngụ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1060650120"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/dynamic_cb_1000_it.json",
+    "id_item": "dynamic_cb_1000_it",
+    "id_album": "90997657",
+    "english": "dynamic",
+    "list_mean": [
+      "động lực",
+      "năng động"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "919601493"
   }
 ]
