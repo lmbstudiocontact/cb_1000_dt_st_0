@@ -1,63 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/lately_cb_1000_it.json",
-    "id_item": "lately_cb_1000_it",
-    "id_album": "96538789",
-    "english": "lately",
-    "list_mean": [
-      "gần đây"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1658942731"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/late_cb_1000_it.json",
-    "id_item": "late_cb_1000_it",
-    "id_album": "96538789",
-    "english": "late",
-    "list_mean": [
-      "chậm; muộn",
-      "muộn",
-      "quá cố",
-      "nguyên",
-      "muộn",
-      "muộn"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "283697255"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/laugh_cb_1000_it.json",
-    "id_item": "laugh_cb_1000_it",
-    "id_album": "96538789",
-    "english": "laugh",
-    "list_mean": [
-      "cười",
-      "tiếng cười"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-655267138"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/launch_cb_1000_it.json",
-    "id_item": "launch_cb_1000_it",
-    "id_album": "96538789",
-    "english": "launch",
-    "list_mean": [
-      "hạ thuỷ; phóng",
-      "khởi đầu",
-      "ném",
-      "hành động phóng; hạ thuỷ",
-      "xuồng máy"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-143578628"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/laundry_cb_1000_it.json",
     "id_item": "laundry_cb_1000_it",
     "id_album": "96538789",
@@ -104,18 +46,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-1205107985"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/lazily_cb_1000_it.json",
-    "id_item": "lazily_cb_1000_it",
-    "id_album": "96538789",
-    "english": "lazily",
-    "list_mean": [
-      "một cách lười nhác"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1727231674"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/lazy_cb_1000_it.json",
@@ -931,18 +861,6 @@
     "hash_code_list_mean": "832027607"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/loudly_cb_1000_it.json",
-    "id_item": "loudly_cb_1000_it",
-    "id_album": "96538789",
-    "english": "loudly",
-    "list_mean": [
-      "to"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "3738"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/loud_cb_1000_it.json",
     "id_item": "loud_cb_1000_it",
     "id_album": "96538789",
@@ -971,18 +889,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "948649153"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/loving_cb_1000_it.json",
-    "id_item": "loving_cb_1000_it",
-    "id_album": "96538789",
-    "english": "loving",
-    "list_mean": [
-      "âu yếm"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-2010380775"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/low_cb_1000_it.json",

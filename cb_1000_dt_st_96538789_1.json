@@ -1,33 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/how_cb_1000_it.json",
-    "id_item": "how_cb_1000_it",
-    "id_album": "96538789",
-    "english": "how",
-    "list_mean": [
-      "như thế nào",
-      "tới mức độ nào",
-      "bằng phương tiện gì",
-      "tình trạng sức khoẻ; hoàn cảnh thế nào",
-      "vì lí do gì"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1484297327"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/huge_cb_1000_it.json",
-    "id_item": "huge_cb_1000_it",
-    "id_album": "96538789",
-    "english": "huge",
-    "list_mean": [
-      "khổng lồ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1950465611"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/human_cb_1000_it.json",
     "id_item": "human_cb_1000_it",
     "id_album": "96538789",
@@ -93,18 +65,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-190054522"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hungrily_cb_1000_it.json",
-    "id_item": "hungrily_cb_1000_it",
-    "id_album": "96538789",
-    "english": "hungrily",
-    "list_mean": [
-      "khao khát; thèm muốn"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1551675393"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/hunt_cb_1000_it.json",
@@ -589,18 +549,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-1098944289"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/integration_cb_1000_it.json",
-    "id_item": "integration_cb_1000_it",
-    "id_album": "96538789",
-    "english": "integration",
-    "list_mean": [
-      "sự hội nhập"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1167431738"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/intellectual_cb_1000_it.json",
@@ -1374,5 +1322,63 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-1738815492"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/lately_cb_1000_it.json",
+    "id_item": "lately_cb_1000_it",
+    "id_album": "96538789",
+    "english": "lately",
+    "list_mean": [
+      "gần đây"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1658942731"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/late_cb_1000_it.json",
+    "id_item": "late_cb_1000_it",
+    "id_album": "96538789",
+    "english": "late",
+    "list_mean": [
+      "chậm; muộn",
+      "muộn",
+      "quá cố",
+      "nguyên",
+      "muộn",
+      "muộn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "283697255"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/laugh_cb_1000_it.json",
+    "id_item": "laugh_cb_1000_it",
+    "id_album": "96538789",
+    "english": "laugh",
+    "list_mean": [
+      "cười",
+      "tiếng cười"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-655267138"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/launch_cb_1000_it.json",
+    "id_item": "launch_cb_1000_it",
+    "id_album": "96538789",
+    "english": "launch",
+    "list_mean": [
+      "hạ thuỷ; phóng",
+      "khởi đầu",
+      "ném",
+      "hành động phóng; hạ thuỷ",
+      "xuồng máy"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-143578628"
   }
 ]

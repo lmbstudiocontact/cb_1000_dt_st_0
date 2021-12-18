@@ -818,18 +818,6 @@
     "hash_code_list_mean": "1737385866"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/happily_cb_1000_it.json",
-    "id_item": "happily_cb_1000_it",
-    "id_album": "96538789",
-    "english": "happily",
-    "list_mean": [
-      "một cách hạnh phúc; một cách may mắn"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-163914343"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/happy_cb_1000_it.json",
     "id_item": "happy_cb_1000_it",
     "id_album": "96538789",
@@ -1142,18 +1130,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "232332929"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/helpful_cb_1000_it.json",
-    "id_item": "helpful_cb_1000_it",
-    "id_album": "96538789",
-    "english": "helpful",
-    "list_mean": [
-      "giúp đỡ; có ích"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-854936450"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/help_cb_1000_it.json",
@@ -1539,5 +1515,33 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1189681547"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/how_cb_1000_it.json",
+    "id_item": "how_cb_1000_it",
+    "id_album": "96538789",
+    "english": "how",
+    "list_mean": [
+      "như thế nào",
+      "tới mức độ nào",
+      "bằng phương tiện gì",
+      "tình trạng sức khoẻ; hoàn cảnh thế nào",
+      "vì lí do gì"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1484297327"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/huge_cb_1000_it.json",
+    "id_item": "huge_cb_1000_it",
+    "id_album": "96538789",
+    "english": "huge",
+    "list_mean": [
+      "khổng lồ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1950465611"
   }
 ]

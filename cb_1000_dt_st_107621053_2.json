@@ -1,56 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stretch_cb_1000_it.json",
-    "id_item": "stretch_cb_1000_it",
-    "id_album": "107621053",
-    "english": "stretch",
-    "list_mean": [
-      "kéo dài ra, duỗi ra",
-      "trải ra, chạy dài ra",
-      "sự duỗi ra, sự bị kéo dài ra",
-      "khoảng, thời gian kéo dài liên tục"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "188961536"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stride_cb_1000_it.json",
-    "id_item": "stride_cb_1000_it",
-    "id_album": "107621053",
-    "english": "stride",
-    "list_mean": [
-      "đi dài bước",
-      "sải chân"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1750794040"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/strike_cb_1000_it.json",
-    "id_item": "strike_cb_1000_it",
-    "id_album": "107621053",
-    "english": "strike",
-    "list_mean": [
-      "đánh, đập",
-      "tấn công",
-      "đánh, điểm",
-      "bãi công, đình công",
-      "tìm ra, tìm thấy",
-      "gõ, đánh",
-      "gây ấn tượng, cảm kích",
-      "đúc, sản xuất",
-      "đi vào, tới, đến",
-      "hạ cờ",
-      "sự bãi công",
-      "sự đột nhiên dò đúng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-19093864"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/string_cb_1000_it.json",
     "id_item": "string_cb_1000_it",
     "id_album": "107621053",
@@ -68,18 +17,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1360219497"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/strongly_cb_1000_it.json",
-    "id_item": "strongly_cb_1000_it",
-    "id_album": "107621053",
-    "english": "strongly",
-    "list_mean": [
-      "mạnh, chắc chắn"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1655160744"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/strong_cb_1000_it.json",
@@ -1465,5 +1402,69 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1207200541"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/through_cb_1000_it.json",
+    "id_item": "through_cb_1000_it",
+    "id_album": "107621053",
+    "english": "through",
+    "list_mean": [
+      "qua, xuyên qua",
+      "khắp",
+      "suốt, hết, từ đầu đến cuối",
+      "vì, bởi vì",
+      "nhờ, bằng cách",
+      "từ…..đến (thời gian)",
+      "qua, xuyên qua",
+      "chạy suốt",
+      "kết thúc"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "558217415"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/throw_cb_1000_it.json",
+    "id_item": "throw_cb_1000_it",
+    "id_album": "107621053",
+    "english": "throw",
+    "list_mean": [
+      "ném",
+      "hất ngã, làm ngã",
+      "lúng túng",
+      "vật ngã",
+      "sự ném"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-474098236"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/thrust_cb_1000_it.json",
+    "id_item": "thrust_cb_1000_it",
+    "id_album": "107621053",
+    "english": "thrust",
+    "list_mean": [
+      "xô mạnh, đẩy mạnh",
+      "sự đẩy mạnh",
+      "sự xô mạnh về phía trước"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1487835922"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/thumb_cb_1000_it.json",
+    "id_item": "thumb_cb_1000_it",
+    "id_album": "107621053",
+    "english": "thumb",
+    "list_mean": [
+      "ngón tay cái",
+      "phần của găng tay bọc ngón tay cái",
+      "lật, giở"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "924254162"
   }
 ]

@@ -1,151 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/brick_cb_1000_it.json",
-    "id_item": "brick_cb_1000_it",
-    "id_album": "90997657",
-    "english": "brick",
-    "list_mean": [
-      "gạch"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "10606878"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/briefs_cb_1000_it.json",
-    "id_item": "briefs_cb_1000_it",
-    "id_album": "90997657",
-    "english": "briefs",
-    "list_mean": [
-      "quần đùi"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1545247147"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bright_cb_1000_it.json",
-    "id_item": "bright_cb_1000_it",
-    "id_album": "90997657",
-    "english": "bright",
-    "list_mean": [
-      "sáng chói",
-      "tươi sáng",
-      "rạng rỡ",
-      "sáng dạ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-297976385"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bring_cb_1000_it.json",
-    "id_item": "bring_cb_1000_it",
-    "id_album": "90997657",
-    "english": "bring",
-    "list_mean": [
-      "mang lại",
-      "làm cho"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1074033181"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/broad-minded_cb_1000_it.json",
-    "id_item": "broad-minded_cb_1000_it",
-    "id_album": "90997657",
-    "english": "broad-minded",
-    "list_mean": [
-      "có tư tưởng rộng rãi"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-905730513"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/broadcast_cb_1000_it.json",
-    "id_item": "broadcast_cb_1000_it",
-    "id_album": "90997657",
-    "english": "broadcast",
-    "list_mean": [
-      "phát đi",
-      "truyền đi",
-      "chương trình truyền thanh, truyền hình"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1062093921"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/broad_cb_1000_it.json",
-    "id_item": "broad_cb_1000_it",
-    "id_album": "90997657",
-    "english": "broad",
-    "list_mean": [
-      "rộng",
-      "ngang",
-      "khái quát"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1768853008"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/brochure_cb_1000_it.json",
-    "id_item": "brochure_cb_1000_it",
-    "id_album": "90997657",
-    "english": "brochure",
-    "list_mean": [
-      "sách nhỏ thông tin quảng cáo về cái gì"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-2045607983"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/broke_cb_1000_it.json",
-    "id_item": "broke_cb_1000_it",
-    "id_album": "90997657",
-    "english": "broke",
-    "list_mean": [
-      "khánh kiệt"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "298196876"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/brother_cb_1000_it.json",
-    "id_item": "brother_cb_1000_it",
-    "id_album": "90997657",
-    "english": "brother",
-    "list_mean": [
-      "anh, em trai",
-      "bạn đồng sự",
-      "đạo hữu"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "688846665"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/brown_cb_1000_it.json",
-    "id_item": "brown_cb_1000_it",
-    "id_album": "90997657",
-    "english": "brown",
-    "list_mean": [
-      "nâu",
-      "rám nắng",
-      "màu nâu",
-      "vật có màu nâu",
-      "nhuộm nâu"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "331623233"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/bucket_cb_1000_it.json",
     "id_item": "bucket_cb_1000_it",
     "id_album": "90997657",
@@ -494,18 +348,6 @@
     "hash_code_list_mean": "-168986832"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/carefully_cb_1000_it.json",
-    "id_item": "carefully_cb_1000_it",
-    "id_album": "90997657",
-    "english": "carefully",
-    "list_mean": [
-      "một cách cẩn thận"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1015678703"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/careful_cb_1000_it.json",
     "id_item": "careful_cb_1000_it",
     "id_album": "90997657",
@@ -517,18 +359,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1571927640"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/carelessly_cb_1000_it.json",
-    "id_item": "carelessly_cb_1000_it",
-    "id_album": "90997657",
-    "english": "carelessly",
-    "list_mean": [
-      "một cách cẩu thả"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1774816152"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/careless_cb_1000_it.json",
@@ -745,18 +575,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-521509534"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cautiously_cb_1000_it.json",
-    "id_item": "cautiously_cb_1000_it",
-    "id_album": "90997657",
-    "english": "cautiously",
-    "list_mean": [
-      "một cách cẩn trọng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1420940886"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cave_cb_1000_it.json",
@@ -1447,5 +1265,208 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-596325818"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/clothe_cb_1000_it.json",
+    "id_item": "clothe_cb_1000_it",
+    "id_album": "90997657",
+    "english": "clothe",
+    "list_mean": [
+      "mặc quần áo cho",
+      "mặc quần áo"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1142234615"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cloth_cb_1000_it.json",
+    "id_item": "cloth_cb_1000_it",
+    "id_album": "90997657",
+    "english": "cloth",
+    "list_mean": [
+      "vải"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "356667"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cloudy_cb_1000_it.json",
+    "id_item": "cloudy_cb_1000_it",
+    "id_album": "90997657",
+    "english": "cloudy",
+    "list_mean": [
+      "có mây",
+      "vẩn đục"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-810303593"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cloud_cb_1000_it.json",
+    "id_item": "cloud_cb_1000_it",
+    "id_album": "90997657",
+    "english": "cloud",
+    "list_mean": [
+      "mây",
+      "đám",
+      "bóng đen",
+      "mây che phủ",
+      "làm vẩn đục",
+      "phiền muộn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1959559227"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coach_cb_1000_it.json",
+    "id_item": "coach_cb_1000_it",
+    "id_album": "90997657",
+    "english": "coach",
+    "list_mean": [
+      "toa",
+      "xe buýt đường dài",
+      "huấn luyện viên",
+      "giáo viên luyện thi",
+      "xe ngựa",
+      "dạy"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-2015556507"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coal_cb_1000_it.json",
+    "id_item": "coal_cb_1000_it",
+    "id_album": "90997657",
+    "english": "coal",
+    "list_mean": [
+      "than đá"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1353425682"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coast_cb_1000_it.json",
+    "id_item": "coast_cb_1000_it",
+    "id_album": "90997657",
+    "english": "coast",
+    "list_mean": [
+      "bờ biển",
+      "thả dốc"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2226671"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coating_cb_1000_it.json",
+    "id_item": "coating_cb_1000_it",
+    "id_album": "90997657",
+    "english": "coating",
+    "list_mean": [
+      "lớp phủ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-25979441"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/coat_cb_1000_it.json",
+    "id_item": "coat_cb_1000_it",
+    "id_album": "90997657",
+    "english": "coat",
+    "list_mean": [
+      "áo choàng",
+      "áo vét",
+      "bộ lông thú",
+      "lớp sơn",
+      "phủ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-946185969"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cock_cb_1000_it.json",
+    "id_item": "cock_cb_1000_it",
+    "id_album": "90997657",
+    "english": "cock",
+    "list_mean": [
+      "gà trống",
+      "cái van",
+      "dương vật",
+      "dựng đứng lên",
+      "lên cò súng",
+      "hếch lên"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-431983547"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/cold_cb_1000_it.json",
+    "id_item": "cold_cb_1000_it",
+    "id_album": "90997657",
+    "english": "cold",
+    "list_mean": [
+      "lạnh; nguội",
+      "lạnh",
+      "lạnh lùng",
+      "sự lạnh",
+      "cảm lạnh"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "101396752"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/collect_cb_1000_it.json",
+    "id_item": "collect_cb_1000_it",
+    "id_album": "90997657",
+    "english": "collect",
+    "list_mean": [
+      "tụ tập; sưu tập",
+      "đón"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1403161739"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/colony_cb_1000_it.json",
+    "id_item": "colony_cb_1000_it",
+    "id_album": "90997657",
+    "english": "colony",
+    "list_mean": [
+      "thuộc địa",
+      "nhóm người cùng nghề",
+      "đàn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1306461142"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/column_cb_1000_it.json",
+    "id_item": "column_cb_1000_it",
+    "id_album": "90997657",
+    "english": "column",
+    "list_mean": [
+      "cột",
+      "hình cột",
+      "cột số",
+      "cột báo",
+      "mục",
+      "đội hình hàng dọc",
+      "dãy xe dài nối tiếp nhau"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1639960322"
   }
 ]

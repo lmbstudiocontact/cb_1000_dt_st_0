@@ -319,18 +319,6 @@
     "hash_code_list_mean": "834344545"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/obedient_cb_1000_it.json",
-    "id_item": "obedient_cb_1000_it",
-    "id_album": "102079921",
-    "english": "obedient",
-    "list_mean": [
-      "biết nghe lời"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "904704913"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/object_cb_1000_it.json",
     "id_item": "object_cb_1000_it",
     "id_album": "102079921",
@@ -1430,5 +1418,24 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "807062108"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/past_cb_1000_it.json",
+    "id_item": "past_cb_1000_it",
+    "id_album": "102079921",
+    "english": "past",
+    "list_mean": [
+      "quá khứ",
+      "đã qua",
+      "thời quá khứ",
+      "qua",
+      "quá",
+      "qua",
+      "quá khứ",
+      "thời quá khứ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-560170565"
   }
 ]

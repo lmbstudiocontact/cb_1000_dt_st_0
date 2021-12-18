@@ -1,62 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wake_cb_1000_it.json",
-    "id_item": "wake_cb_1000_it",
-    "id_album": "107621053",
-    "english": "wake",
-    "list_mean": [
-      "tỉnh giấc",
-      "đường rẽ nước"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-926809114"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/walk_cb_1000_it.json",
-    "id_item": "walk_cb_1000_it",
-    "id_album": "107621053",
-    "english": "walk",
-    "list_mean": [
-      "đi bộ",
-      "đi dạo",
-      "đi lang thang",
-      "sự đi bộ",
-      "dáng đi",
-      "lối đi bộ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-618474962"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wallpaper_cb_1000_it.json",
-    "id_item": "wallpaper_cb_1000_it",
-    "id_album": "107621053",
-    "english": "wallpaper",
-    "list_mean": [
-      "giấy dán tường",
-      "dán tường bằng giấy"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1107778105"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wall_cb_1000_it.json",
-    "id_item": "wall_cb_1000_it",
-    "id_album": "107621053",
-    "english": "wall",
-    "list_mean": [
-      "bức tường",
-      "tường nhà",
-      "xây tường bao quanh"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1600611387"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/want_cb_1000_it.json",
     "id_item": "want_cb_1000_it",
     "id_album": "107621053",
@@ -677,18 +620,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "1558799082"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/windy_cb_1000_it.json",
-    "id_item": "windy_cb_1000_it",
-    "id_album": "107621053",
-    "english": "windy",
-    "list_mean": [
-      "có gió"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1235209920"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wind_cb_1000_it.json",

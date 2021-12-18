@@ -502,18 +502,6 @@
     "hash_code_list_mean": "1928725538"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/self-confident_cb_1000_it.json",
-    "id_item": "self-confident_cb_1000_it",
-    "id_album": "107621053",
-    "english": "self-confident",
-    "list_mean": [
-      "tự tin"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "2047324949"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/selfish_cb_1000_it.json",
     "id_item": "selfish_cb_1000_it",
     "id_album": "107621053",
@@ -1560,5 +1548,23 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-776293925"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sit_cb_1000_it.json",
+    "id_item": "sit_cb_1000_it",
+    "id_album": "107621053",
+    "english": "sit",
+    "list_mean": [
+      "ngồi",
+      "ở vào vị trí nào đó",
+      "là thành viên chính thức của",
+      "đậu",
+      "là thí sinh của một kì thi",
+      "ngồi làm mẫu để vẽ chân dung",
+      "họp"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "760285576"
   }
 ]

@@ -1,69 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/through_cb_1000_it.json",
-    "id_item": "through_cb_1000_it",
-    "id_album": "107621053",
-    "english": "through",
-    "list_mean": [
-      "qua, xuyên qua",
-      "khắp",
-      "suốt, hết, từ đầu đến cuối",
-      "vì, bởi vì",
-      "nhờ, bằng cách",
-      "từ…..đến (thời gian)",
-      "qua, xuyên qua",
-      "chạy suốt",
-      "kết thúc"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "558217415"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/throw_cb_1000_it.json",
-    "id_item": "throw_cb_1000_it",
-    "id_album": "107621053",
-    "english": "throw",
-    "list_mean": [
-      "ném",
-      "hất ngã, làm ngã",
-      "lúng túng",
-      "vật ngã",
-      "sự ném"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-474098236"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/thrust_cb_1000_it.json",
-    "id_item": "thrust_cb_1000_it",
-    "id_album": "107621053",
-    "english": "thrust",
-    "list_mean": [
-      "xô mạnh, đẩy mạnh",
-      "sự đẩy mạnh",
-      "sự xô mạnh về phía trước"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1487835922"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/thumb_cb_1000_it.json",
-    "id_item": "thumb_cb_1000_it",
-    "id_album": "107621053",
-    "english": "thumb",
-    "list_mean": [
-      "ngón tay cái",
-      "phần của găng tay bọc ngón tay cái",
-      "lật, giở"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "924254162"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/thunder_cb_1000_it.json",
     "id_item": "thunder_cb_1000_it",
     "id_album": "107621053",
@@ -1424,5 +1360,62 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-501551392"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wake_cb_1000_it.json",
+    "id_item": "wake_cb_1000_it",
+    "id_album": "107621053",
+    "english": "wake",
+    "list_mean": [
+      "tỉnh giấc",
+      "đường rẽ nước"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-926809114"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/walk_cb_1000_it.json",
+    "id_item": "walk_cb_1000_it",
+    "id_album": "107621053",
+    "english": "walk",
+    "list_mean": [
+      "đi bộ",
+      "đi dạo",
+      "đi lang thang",
+      "sự đi bộ",
+      "dáng đi",
+      "lối đi bộ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-618474962"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wallpaper_cb_1000_it.json",
+    "id_item": "wallpaper_cb_1000_it",
+    "id_album": "107621053",
+    "english": "wallpaper",
+    "list_mean": [
+      "giấy dán tường",
+      "dán tường bằng giấy"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1107778105"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/wall_cb_1000_it.json",
+    "id_item": "wall_cb_1000_it",
+    "id_album": "107621053",
+    "english": "wall",
+    "list_mean": [
+      "bức tường",
+      "tường nhà",
+      "xây tường bao quanh"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1600611387"
   }
 ]

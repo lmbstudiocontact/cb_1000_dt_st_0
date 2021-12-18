@@ -83,18 +83,6 @@
     "hash_code_list_mean": "-1702260792"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/absorption_cb_1000_it.json",
-    "id_item": "absorption_cb_1000_it",
-    "id_album": "90997657",
-    "english": "absorption",
-    "list_mean": [
-      "sự thấm; sự mê mải"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "867025454"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/accept_cb_1000_it.json",
     "id_item": "accept_cb_1000_it",
     "id_album": "90997657",
@@ -164,18 +152,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "720785961"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/accurately_cb_1000_it.json",
-    "id_item": "accurately_cb_1000_it",
-    "id_album": "90997657",
-    "english": "accurately",
-    "list_mean": [
-      "một cách chính xác"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1443833578"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/accuse_cb_1000_it.json",
@@ -641,18 +617,6 @@
     "hash_code_list_mean": "526765262"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/ambitious_cb_1000_it.json",
-    "id_item": "ambitious_cb_1000_it",
-    "id_album": "90997657",
-    "english": "ambitious",
-    "list_mean": [
-      "tham vọng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "707098543"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/among_cb_1000_it.json",
     "id_item": "among_cb_1000_it",
     "id_album": "90997657",
@@ -725,18 +689,6 @@
     "hash_code_list_mean": "246163684"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/angrily_cb_1000_it.json",
-    "id_item": "angrily_cb_1000_it",
-    "id_album": "90997657",
-    "english": "angrily",
-    "list_mean": [
-      "giận dữ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-1404545881"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/animal_cb_1000_it.json",
     "id_item": "animal_cb_1000_it",
     "id_album": "90997657",
@@ -802,18 +754,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-644483222"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/anxiously_cb_1000_it.json",
-    "id_item": "anxiously_cb_1000_it",
-    "id_album": "90997657",
-    "english": "anxiously",
-    "list_mean": [
-      "lo lắng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "284307800"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/anxious_cb_1000_it.json",
@@ -1360,15 +1300,84 @@
     "hash_code_list_mean": "2110295574"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/availability_cb_1000_it.json",
-    "id_item": "availability_cb_1000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/avalanche_cb_1000_it.json",
+    "id_item": "avalanche_cb_1000_it",
     "id_album": "90997657",
-    "english": "availability",
+    "english": "avalanche",
     "list_mean": [
-      "tính sẵn sàng"
+      "tuyết lở"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1123156986"
+    "hash_code_list_mean": "-1086991515"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/average_cb_1000_it.json",
+    "id_item": "average_cb_1000_it",
+    "id_album": "90997657",
+    "english": "average",
+    "list_mean": [
+      "trung bình",
+      "trung bình",
+      "theo chuẩn mực thông thường",
+      "tính trung bình"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "445240211"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/avoid_cb_1000_it.json",
+    "id_item": "avoid_cb_1000_it",
+    "id_album": "90997657",
+    "english": "avoid",
+    "list_mean": [
+      "tránh"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "110744380"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/awake_cb_1000_it.json",
+    "id_item": "awake_cb_1000_it",
+    "id_album": "90997657",
+    "english": "awake",
+    "list_mean": [
+      "thức giấc",
+      "thức"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1904960899"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/away_cb_1000_it.json",
+    "id_item": "away_cb_1000_it",
+    "id_album": "90997657",
+    "english": "away",
+    "list_mean": [
+      "xa",
+      "tránh xa",
+      "mất",
+      "liên tục",
+      "bên sân đối phương"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1138907495"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_0/raw/main/axis_cb_1000_it.json",
+    "id_item": "axis_cb_1000_it",
+    "id_album": "90997657",
+    "english": "axis",
+    "list_mean": [
+      "trục",
+      "trục đồ thị"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "985593666"
   }
 ]

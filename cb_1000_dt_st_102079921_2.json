@@ -1,24 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/past_cb_1000_it.json",
-    "id_item": "past_cb_1000_it",
-    "id_album": "102079921",
-    "english": "past",
-    "list_mean": [
-      "quá khứ",
-      "đã qua",
-      "thời quá khứ",
-      "qua",
-      "quá",
-      "qua",
-      "quá khứ",
-      "thời quá khứ"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-560170565"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/path_cb_1000_it.json",
     "id_item": "path_cb_1000_it",
     "id_album": "102079921",
@@ -274,18 +255,6 @@
     "hash_code_list_mean": "-28656280"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/persistent_cb_1000_it.json",
-    "id_item": "persistent_cb_1000_it",
-    "id_album": "102079921",
-    "english": "persistent",
-    "list_mean": [
-      "bền bỉ/ dai dẳng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "162761348"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/personally_cb_1000_it.json",
     "id_item": "personally_cb_1000_it",
     "id_album": "102079921",
@@ -323,30 +292,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-1709188895"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pessimistic_cb_1000_it.json",
-    "id_item": "pessimistic_cb_1000_it",
-    "id_album": "102079921",
-    "english": "pessimistic",
-    "list_mean": [
-      "bi quan"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-179856983"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/photographer_cb_1000_it.json",
-    "id_item": "photographer_cb_1000_it",
-    "id_album": "102079921",
-    "english": "photographer",
-    "list_mean": [
-      "nhà nhiếp ảnh"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-2029066718"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/phrase_cb_1000_it.json",
@@ -645,18 +590,6 @@
     "hash_code_list_mean": "1844843400"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/player_cb_1000_it.json",
-    "id_item": "player_cb_1000_it",
-    "id_album": "102079921",
-    "english": "player",
-    "list_mean": [
-      "người chơi"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "1172587945"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/play_cb_1000_it.json",
     "id_item": "play_cb_1000_it",
     "id_album": "102079921",
@@ -825,18 +758,6 @@
     "hash_code_list_mean": "-1234805142"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/politely_cb_1000_it.json",
-    "id_item": "politely_cb_1000_it",
-    "id_album": "102079921",
-    "english": "politely",
-    "list_mean": [
-      "lịch sự"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-493983207"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/polite_cb_1000_it.json",
     "id_item": "polite_cb_1000_it",
     "id_album": "102079921",
@@ -871,18 +792,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-1471270294"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pollution_cb_1000_it.json",
-    "id_item": "pollution_cb_1000_it",
-    "id_album": "102079921",
-    "english": "pollution",
-    "list_mean": [
-      "sự ô nhiễm"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "-85967576"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/pond_cb_1000_it.json",
@@ -1442,15 +1351,116 @@
     "hash_code_list_mean": "198306797"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/professionally_cb_1000_it.json",
-    "id_item": "professionally_cb_1000_it",
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/promise_cb_1000_it.json",
+    "id_item": "promise_cb_1000_it",
     "id_album": "102079921",
-    "english": "professionally",
+    "english": "promise",
     "list_mean": [
-      "mang tính chuyên nghiệp"
+      "hứa",
+      "đảm bảo",
+      "báo hiệu",
+      "lời hứa",
+      "triển vọng"
     ],
     "cau_en": "",
     "cau_vn": "",
-    "hash_code_list_mean": "-1315850853"
+    "hash_code_list_mean": "671332663"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/promote_cb_1000_it.json",
+    "id_item": "promote_cb_1000_it",
+    "id_album": "102079921",
+    "english": "promote",
+    "list_mean": [
+      "thăng chức",
+      "xúc tiến",
+      "quảng cáo"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-168714596"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/proofread_cb_1000_it.json",
+    "id_item": "proofread_cb_1000_it",
+    "id_album": "102079921",
+    "english": "proofread",
+    "list_mean": [
+      "hiệu đính"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1157906682"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/proof_cb_1000_it.json",
+    "id_item": "proof_cb_1000_it",
+    "id_album": "102079921",
+    "english": "proof",
+    "list_mean": [
+      "chứng cớ",
+      "bản in thử",
+      "bức ảnh rửa thử",
+      "chống; ngăn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "755597741"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/property_cb_1000_it.json",
+    "id_item": "property_cb_1000_it",
+    "id_album": "102079921",
+    "english": "property",
+    "list_mean": [
+      "tài sản",
+      "bất động sản",
+      "thuộc tính",
+      "đồ dùng biểu diễn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1870878413"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/proper_cb_1000_it.json",
+    "id_item": "proper_cb_1000_it",
+    "id_album": "102079921",
+    "english": "proper",
+    "list_mean": [
+      "đúng; thích hợp",
+      "trọn vẹn",
+      "đúng cách"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "663685570"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/propose_cb_1000_it.json",
+    "id_item": "propose_cb_1000_it",
+    "id_album": "102079921",
+    "english": "propose",
+    "list_mean": [
+      "đề nghị",
+      "đề ra mục đích",
+      "cầu hôn"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "1874820583"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/protection_cb_1000_it.json",
+    "id_item": "protection_cb_1000_it",
+    "id_album": "102079921",
+    "english": "protection",
+    "list_mean": [
+      "sự bảo vệ",
+      "vật che đỡ"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "254833935"
   }
 ]

@@ -1,23 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/sit_cb_1000_it.json",
-    "id_item": "sit_cb_1000_it",
-    "id_album": "107621053",
-    "english": "sit",
-    "list_mean": [
-      "ngồi",
-      "ở vào vị trí nào đó",
-      "là thành viên chính thức của",
-      "đậu",
-      "là thí sinh của một kì thi",
-      "ngồi làm mẫu để vẽ chân dung",
-      "họp"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "760285576"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/six_cb_1000_it.json",
     "id_item": "six_cb_1000_it",
     "id_album": "107621053",
@@ -266,18 +248,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-1477003807"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slowly_cb_1000_it.json",
-    "id_item": "slowly_cb_1000_it",
-    "id_album": "107621053",
-    "english": "slowly",
-    "list_mean": [
-      "chậm"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "3292836"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/slow_cb_1000_it.json",
@@ -765,18 +735,6 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-39355342"
-  },
-  {
-    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/specifically_cb_1000_it.json",
-    "id_item": "specifically_cb_1000_it",
-    "id_album": "107621053",
-    "english": "specifically",
-    "list_mean": [
-      "rõ ràng"
-    ],
-    "cau_en": "",
-    "cau_vn": "",
-    "hash_code_list_mean": "848546883"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/specify_cb_1000_it.json",
@@ -1512,5 +1470,56 @@
     "cau_en": "",
     "cau_vn": "",
     "hash_code_list_mean": "-711536251"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stretch_cb_1000_it.json",
+    "id_item": "stretch_cb_1000_it",
+    "id_album": "107621053",
+    "english": "stretch",
+    "list_mean": [
+      "kéo dài ra, duỗi ra",
+      "trải ra, chạy dài ra",
+      "sự duỗi ra, sự bị kéo dài ra",
+      "khoảng, thời gian kéo dài liên tục"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "188961536"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/stride_cb_1000_it.json",
+    "id_item": "stride_cb_1000_it",
+    "id_album": "107621053",
+    "english": "stride",
+    "list_mean": [
+      "đi dài bước",
+      "sải chân"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-1750794040"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/cb_1000_it_1/raw/main/strike_cb_1000_it.json",
+    "id_item": "strike_cb_1000_it",
+    "id_album": "107621053",
+    "english": "strike",
+    "list_mean": [
+      "đánh, đập",
+      "tấn công",
+      "đánh, điểm",
+      "bãi công, đình công",
+      "tìm ra, tìm thấy",
+      "gõ, đánh",
+      "gây ấn tượng, cảm kích",
+      "đúc, sản xuất",
+      "đi vào, tới, đến",
+      "hạ cờ",
+      "sự bãi công",
+      "sự đột nhiên dò đúng"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "-19093864"
   }
 ]
